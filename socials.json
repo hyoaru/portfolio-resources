@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Github",
+        "label": "hyoaru",
+        "link": "https://github.com/hyoaru",
+        "iconClass": "fa-brands fa-github fs-3 pe-3",
+        "anchorClass": ""
+    },
+
+    {
+        "name": "Facebook",
+        "label": "jjcabreraaaa",
+        "link": "https://facebook.com/jjcabreraaaa",
+        "iconClass": "fa-facebook",
+        "anchorClass": ""
+    },
+
+    {
+        "name": "linkedin",
+        "label": "jjcabreraaaa",
+        "link": "https://www.linkedin.com/in/jjcabreraaaa/",
+        "iconClass": "fa-linkedin",
+        "anchorClass": ""
+    },
+
+    {
+        "name": "spotify",
+        "label": "jade",
+        "link": "https://open.spotify.com/user/12180365121",
+        "iconClass": "fa-spotify",
+        "anchorClass": ""
+    },
+
+    {
+        "name": "last-fm",
+        "label": "haru",
+        "link": "https://last.fm/user/hyoaru",
+        "iconClass": "fa-lastfm",
+        "anchorClass": ""
+    },
+
+    {
+        "name": "discord",
+        "label": "hyo#1187",
+        "link": "#",
+        "iconClass": "fa-discord",
+        "anchorClass": "pe-none"
+    },
+
+    {
+        "name": "twitter",
+        "label": "[redacted]",
+        "link": "#",
+        "iconClass": "fa-twitter",
+        "anchorClass": "pe-none"
+    }
+]

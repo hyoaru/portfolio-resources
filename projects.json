@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Philippine Poverty Area Estimates Web App Choropleth Visualization",
+        "image": "imagePhilippinePovertyAreaEstimates",
+        "description": "Web application providing a visual representation using a choropleth map of the estimated magnitude of poor families in the Philippines from the years 2006, 2009, 2012, and 2015.",
+        "repositoryURL": "https://github.com/hyoaru/philippine-poverty-area-estimates-choropleth/tree/master",
+        "liveURL": "https://ph-poverty-area-estimates.streamlit.app",
+        "processURL": null 
+    },
+
+    {
+        "title": "Declutter",
+        "image": "imageDeclutter",
+        "description": "Web application that provides a platform for users to write and share their thoughts in a clutter-free space.",
+        "repositoryURL": "https://github.com/hyoaru/declutter",
+        "liveURL": "https://ph-poverty-area-estimates.streamlit.app",
+        "processURL": null 
+    },
+
+    {
+        "title": "SPARTA Capstone: Data Science and Machine Learning using Python",
+        "image": "imageSpartaDataScienceAndMachineLearning",
+        "description": "A machine learning peer graded capstone of Smarter Philippines through Data Analytics R&D, Training and Adoption (SPARTA).",
+        "repositoryURL": "https://github.com/hyoaru/sparta-data-science-and-machine-learning-using-python",
+        "liveURL": null,
+        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/sparta-data-science-and-machine-learning-using-python/blob/master/ml_ds_capstone.html" 
+    },
+
+    {
+        "title": "SPARTA: Representing Data and Feature Engineering",
+        "image": "imageSpartaRepresentingDataAndFeatureEngineering",
+        "description": "A machine learning peer graded assignment of project SPARTA. Implementation of feature engineering on adult income data set.",
+        "repositoryURL": "https://github.com/hyoaru/sparta-representing-data-and-feature-engineering",
+        "liveURL": null,
+        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/sparta-representing-data-and-feature-engineering/blob/master/representing_data_and_feature_engineering.html" 
+    },
+
+    {
+        "title": "SPARTA: Supervised ML Binary Classification",
+        "image": "imageSpartaSupervisedMLBinaryClassification",
+        "description": "A machine learning peer graded assignment of project SPARTA. Implementation of machine learning classification on breast cancer wisconsin diagnostic data set.",
+        "repositoryURL": "https://github.com/hyoaru/sparta-supervisedml-binary-classification",
+        "liveURL": null,
+        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/sparta-supervisedml-binary-classification/blob/master/breast_cancer_binary_classification.html" 
+    },
+    
+    {
+        "title": "SPARTA: Unsupervised ML Clustering",
+        "image": "imageSpartaUnsupervisedMlClustering",
+        "description": "A machine learning peer graded assignment of project SPARTA. Implementation of machine learning clustering on iris plants data set.",
+        "repositoryURL": "https://github.com/hyoaru/sparta-unsupervisedml-clustering",
+        "liveURL": null,
+        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/sparta-unsupervisedml-clustering/blob/master/iris_clustering.html" 
+    },
+
+    {
+        "title": "Data Visualization: Prime Number Forest",
+        "image": "imagePrimeNumberForest",
+        "description": "An interactive data visualization made with python, plotly, pandas, and numpy, of how prime numbers from 1 - 200 would look like if it was a forest.",
+        "repositoryURL": "https://github.com/hyoaru/prime-number-forest-3d",
+        "liveURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/prime-number-forest-3d/blob/master/mesh_art_plot.html",
+        "processURL": null
+    },
+
+    {
+        "title": "Expression Converter",
+        "image": "imageExpressionConverter",
+        "description": "A course requirement in data structures and algorithm: java application made with java swing designed to provide a user-friendly interface for converting expressions between infix, prefix, and postfix notations.",
+        "repositoryURL": "https://github.com/hyoaru/expression-converter",
+        "liveURL": null,
+        "processURL": null 
+    },
+
+    {
+        "title": "Anagram",
+        "image": "imageAnagram",
+        "description": "A midterm course requirement for CS Professional Elective 1: web-based anagram game made using HTML, CSS, and vanilla JS.",
+        "repositoryURL": "https://github.com/hyoaru/anagram",
+        "liveURL": "https://hyoaru.github.io/anagram/",
+        "processURL": null 
+    }
+]

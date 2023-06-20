@@ -1,0 +1,190 @@
+[
+    {
+        "title": "Programming For Beginners Using Python",
+        "tags": ["General Programming", "Python"],
+        "imageShrinked": "imageShrinkedProgrammingForBeginnersUsingPython",
+        "imageOriginal": "imageOriginalProgrammingForBeginnersUsingPython"
+    },
+    
+    {
+        "title": "Programming for Intermediate Users Using Python",
+        "tags": ["General Programming", "Python"],
+        "imageShrinked": "imageShrinkedProgrammingForIntermediateUsersUsingPython",
+        "imageOriginal": "imageOriginalProgrammingForIntermediateUsersUsingPython"
+    },
+
+    {
+        "title": "Basic Statistics with Python",
+        "tags": ["Data Analytics", "Python", "Pandas", "Numpy"],
+        "imageShrinked": "imageShrinkedBasicStatisticsWithPython",
+        "imageOriginal": "imageOriginalBasicStatisticsWithPython"
+    },
+
+    {
+        "title": "Analyze Data with Python",
+        "tags": ["Data Analytics", "Python", "Pandas", "Numpy"],
+        "imageShrinked": "imageShrinkedAnalyzeDataWithPython",
+        "imageOriginal": "imageOriginalAnalyzeDataWithPython"
+    },
+
+    {
+        "title": "Visualize Data with Python",
+        "tags": ["Data Analytics", "Python", "Pandas", "Matplotlib"],
+        "imageShrinked": "imageShrinkedVisualizeDataWithPython",
+        "imageOriginal": "imageOriginalVisualizeDataWithPython"
+    },
+
+    {
+        "title": "Getting Grounded on Analytics",
+        "tags": ["Data Analytics", "Analytics", "Python"],
+        "imageShrinked": "imageShrinkedGettingGroundedWithAnalytics",
+        "imageOriginal": "imageOriginalGettingGroundedWithAnalytics"
+    },
+
+    {
+        "title": "Essential Excel Skills for Data Preparation and Analysis",
+        "tags": ["Data Analytics", "Data Preparation", "Excel"],
+        "imageShrinked": "imageShrinkedEssentialExcelSkillsForDataPreparationAndAnalysis",
+        "imageOriginal": "imageOriginalEssentialExcelSkillsForDataPreparationAndAnalysis"
+    },
+
+    {
+        "title": "Data Management Fundamentals",
+        "tags": ["Data Management", "Data Ethics"],
+        "imageShrinked": "imageShrinkedDataManagementFundamentals",
+        "imageOriginal": "imageOriginalDataManagementFundamentals"
+    },
+
+    {
+        "title": "Dashboard and Drill-Down Analytics",
+        "tags": ["Data Science", "Drill-Down Analytics", "Dashboards", "Excel"],
+        "imageShrinked": "imageShrinkedDashboardsAndDrillDownAnalytics",
+        "imageOriginal": "imageOriginalDashboardsAndDrillDownAnalytics"
+    },
+
+    {
+        "title": "Data Visualization Fundamentals",
+        "tags": ["Data Analytics", "Data Visualization", "Excel"],
+        "imageShrinked": "imageShrinkedDataVisualizationFundamentals",
+        "imageOriginal": "imageOriginalDataVisualizationFundamentals"
+    },
+
+    {
+        "title": "Storytelling Using Data",
+        "tags": ["Data Analytics", "Data Storytelling"],
+        "imageShrinked": "imageShrinkedStorytellingUsingData",
+        "imageOriginal": "imageOriginalStorytellingUsingData"
+    },
+
+    {
+        "title": "Data Visualization Using Tableau and Python",
+        "tags": ["Data Science", "Data Visualization", "Tableau", "Python", "Matplotlib", "Seaborn"],
+        "imageShrinked": "imageShrinkedDataVisualizationUsingTableauAndPython",
+        "imageOriginal": "imageOriginalDataVisualizationUsingTableauAndPython"
+    },
+
+    {
+        "title": "Computing in Python",
+        "tags": ["Data Science", "Python", "Pandas", "Numpy"],
+        "imageShrinked": "imageShrinkedComputingInPython",
+        "imageOriginal": "imageOriginalComputingInPython"
+    },
+
+    {
+        "title": "SQL for Business Users",
+        "tags": ["Data Science", "SQL", "PostgreSQL"],
+        "imageShrinked": "imageShrinkedSQLForBusinessUsers",
+        "imageOriginal": "imageOriginalSQLForBusinessUsers"
+    },
+
+    {
+        "title": "Statistical Analysis and Modeling Using SQL and Python",
+        "tags": ["Data Science", "Statistical Analysis", "SQL", "PostgreSQL", "Python", "Pandas", "Numpy"],
+        "imageShrinked": "imageShrinkedStatisticalAnalysisAndModelingSQLPython",
+        "imageOriginal": "imageOriginalStatisticalAnalysisAndModelingSQLPython"
+    },
+
+    {
+        "title": "Experimental Design and Analysis",
+        "tags": ["Data Science", "Design of Experiments"],
+        "imageShrinked": "imageShrinkedExperimentalDesignAndAnalysis",
+        "imageOriginal": "imageOriginalExperimentalDesignAndAnalysis"
+    },
+
+    {
+        "title": "Data Science and Machine Learning Using Python",
+        "tags": ["Data Science", "Machine Learning", "Python", "Sci-kit learn", "Pandas", "Numpy", "Matplotlib", "Seaborn"],
+        "imageShrinked": "imageShrinkedDataScienceMachineLearningUsingPython",
+        "imageOriginal": "imageOriginalDataScienceMachineLearningUsingPython"
+    },
+
+    {
+        "title": "Computing Microspecialization Pathway",
+        "tags": ["Data Science", "Python", "Pandas", "Numpy"],
+        "imageShrinked": "imageShrinkedComputingMicrospecialization",
+        "imageOriginal": "imageOriginalComputingMicrospecialization"
+    },
+
+    {
+        "title": "Data Visualization Microspecialization Pathway",
+        "tags": ["Data Science", "Data Visualization", "Data Storytelling", "Excel", "Tableau", "Python", "Matplotlib", "Seaborn", "Plotly"],
+        "imageShrinked": "imageShrinkedDataVisualizationMicrospecialization",
+        "imageOriginal": "imageOriginalDataVisualizationMicrospecialization"
+    },
+
+    {
+        "title": "Methods and Algorithms Microspecialization",
+        "tags": ["Data Science", "Python", "Pandas", "Numpy"],    
+        "imageShrinked": "imageShrinkedMethodsAndAlgorithmsMicrospecialization",
+        "imageOriginal": "imageOriginalMethodsAndAlgorithmsMicrospecialization"
+    },
+
+    {
+        "title": "Foundations: Data, Data, Everywhere",
+        "tags": ["Data Analytics", "Foundations"],    
+        "imageShrinked": "imageShrinkedFoundationsDataEverywhere",
+        "imageOriginal": "imageOriginalFoundationsDataEverywhere"
+    },
+
+    {
+        "title": "Ask Questions to Make Data- Driven Decisions",
+        "tags": ["Data Analytics", "Art of Questioning"],    
+        "imageShrinked": "imageShrinkedAskQuestionsDataDrivenDecisions",
+        "imageOriginal": "imageOriginalAskQuestionsDataDrivenDecisions"
+    },
+ 
+    {
+        "title": "Prepare Data for Exploration",
+        "tags": ["Data Analytics", "SQL"],    
+        "imageShrinked": "imageShrinkedPrepareForDataExploration",
+        "imageOriginal": "imageOriginalPrepareForDataExploration"
+    },
+
+    {
+        "title": "Process Data from Dirty To Clean",
+        "tags": ["Data Analytics", "Cleaning", "SQL"],    
+        "imageShrinked": "imageShrinkedProcessDataFromDirtyToClean",
+        "imageOriginal": "imageOriginalProcessDataFromDirtyToClean"
+    },
+
+    {
+        "title": "Analyze Data to Answer Questions",
+        "tags": ["Data Analytics", "SQL"],    
+        "imageShrinked": "imageShrinkedAnalyzeDataToAnswerQuestions",
+        "imageOriginal": "imageOriginalAnalyzeDataToAnswerQuestions"
+    },
+
+    {
+        "title": "Share Data Through the Art of Visualization",
+        "tags": ["Data Visualization", "Data Storytelling", "Presentation", "Spreadsheet", "Slideshow", "Tableau"],    
+        "imageShrinked": "imageShrinkedShareDataThroughDataVisualization",
+        "imageOriginal": "imageOriginalShareDataThroughDataVisualization"
+    },
+
+    {
+        "title": "Build Python Web Apps with Flask",
+        "tags": ["Web Development", "Python", "Flask", "HTML5", "CSS3", "Bootstrap"],    
+        "imageShrinked": "imageShrinkedBuildPythonWebAppsFlask",
+        "imageOriginal": "imageOriginalBuildPythonWebAppsFlask"
+    }
+]

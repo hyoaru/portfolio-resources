@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Data Science",
+        "bits": "[python, pandas, numpy, seaborn, plotly, sklearn, keras]"
+    },
+
+    {
+        "name": "Web Development",
+        "bits": "[html5, css3, python, javascript, typescript, flask, react]"
+    },
+
+    {
+        "name": "App Development",
+        "bits": "[dart, flutter]"
+    },
+
+    {
+        "name": "Game Development",
+        "bits": "[python, pygame]"
+    },
+
+    {
+        "name": "Multi-platform Development",
+        "bits": "[dart, flutter]"
+    },
+
+    {
+        "name": "Linguistics",
+        "bits": "[french]"
+    },
+
+    {
+        "name": "Calculus",
+        "bits": "[non-standard analysis]"
+    }
+]
