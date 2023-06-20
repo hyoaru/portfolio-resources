@@ -2,189 +2,189 @@
     {
         "title": "Programming For Beginners Using Python",
         "tags": ["General Programming", "Python"],
-        "imageShrinked": "imageShrinkedProgrammingForBeginnersUsingPython",
-        "imageOriginal": "imageOriginalProgrammingForBeginnersUsingPython"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/MACH Programming For Beginners Using Python.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/MACH Programming For Beginners Using Python.jpg"
     },
     
     {
         "title": "Programming for Intermediate Users Using Python",
         "tags": ["General Programming", "Python"],
-        "imageShrinked": "imageShrinkedProgrammingForIntermediateUsersUsingPython",
-        "imageOriginal": "imageOriginalProgrammingForIntermediateUsersUsingPython"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/MACH Programming for Intermediate Users Using Python.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/MACH Programming for Intermediate Users Using Python.jpg"
     },
 
     {
         "title": "Basic Statistics with Python",
         "tags": ["Data Analytics", "Python", "Pandas", "Numpy"],
-        "imageShrinked": "imageShrinkedBasicStatisticsWithPython",
-        "imageOriginal": "imageOriginalBasicStatisticsWithPython"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/MACH Basic Statistics with Python.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/MACH Basic Statistics with Python.jpg"
     },
 
     {
         "title": "Analyze Data with Python",
         "tags": ["Data Analytics", "Python", "Pandas", "Numpy"],
-        "imageShrinked": "imageShrinkedAnalyzeDataWithPython",
-        "imageOriginal": "imageOriginalAnalyzeDataWithPython"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/MACH Analyze Data with Python.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/MACH Analyze Data with Python.jpg"
     },
 
     {
         "title": "Visualize Data with Python",
         "tags": ["Data Analytics", "Python", "Pandas", "Matplotlib"],
-        "imageShrinked": "imageShrinkedVisualizeDataWithPython",
-        "imageOriginal": "imageOriginalVisualizeDataWithPython"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/MACH Visualize Data with Python.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/MACH Visualize Data with Python.jpg"
     },
 
     {
         "title": "Getting Grounded on Analytics",
         "tags": ["Data Analytics", "Analytics", "Python"],
-        "imageShrinked": "imageShrinkedGettingGroundedWithAnalytics",
-        "imageOriginal": "imageOriginalGettingGroundedWithAnalytics"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Getting Grounded on Analytics.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Getting Grounded on Analytics.jpg"
     },
 
     {
         "title": "Essential Excel Skills for Data Preparation and Analysis",
         "tags": ["Data Analytics", "Data Preparation", "Excel"],
-        "imageShrinked": "imageShrinkedEssentialExcelSkillsForDataPreparationAndAnalysis",
-        "imageOriginal": "imageOriginalEssentialExcelSkillsForDataPreparationAndAnalysis"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Essential Excel Skills for Data Preparation and Analysis.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Essential Excel Skills for Data Preparation and Analysis.jpg"
     },
 
     {
         "title": "Data Management Fundamentals",
         "tags": ["Data Management", "Data Ethics"],
-        "imageShrinked": "imageShrinkedDataManagementFundamentals",
-        "imageOriginal": "imageOriginalDataManagementFundamentals"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Data Management Fundamentals.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Data Management Fundamentals.jpg"
     },
 
     {
         "title": "Dashboard and Drill-Down Analytics",
         "tags": ["Data Science", "Drill-Down Analytics", "Dashboards", "Excel"],
-        "imageShrinked": "imageShrinkedDashboardsAndDrillDownAnalytics",
-        "imageOriginal": "imageOriginalDashboardsAndDrillDownAnalytics"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Dashboards and Drill-Down Analytics.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Dashboards and Drill-Down Analytics.jpg"
     },
 
     {
         "title": "Data Visualization Fundamentals",
         "tags": ["Data Analytics", "Data Visualization", "Excel"],
-        "imageShrinked": "imageShrinkedDataVisualizationFundamentals",
-        "imageOriginal": "imageOriginalDataVisualizationFundamentals"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Data Visualization Fundamentals.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Data Visualization Fundamentals.jpg"
     },
 
     {
         "title": "Storytelling Using Data",
         "tags": ["Data Analytics", "Data Storytelling"],
-        "imageShrinked": "imageShrinkedStorytellingUsingData",
-        "imageOriginal": "imageOriginalStorytellingUsingData"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Storytelling Using Data.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Storytelling Using Data.jpg"
     },
 
     {
         "title": "Data Visualization Using Tableau and Python",
         "tags": ["Data Science", "Data Visualization", "Tableau", "Python", "Matplotlib", "Seaborn"],
-        "imageShrinked": "imageShrinkedDataVisualizationUsingTableauAndPython",
-        "imageOriginal": "imageOriginalDataVisualizationUsingTableauAndPython"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Data Visualization Using Tableau and Python.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Data Visualization Using Tableau and Python.jpg"
     },
 
     {
         "title": "Computing in Python",
         "tags": ["Data Science", "Python", "Pandas", "Numpy"],
-        "imageShrinked": "imageShrinkedComputingInPython",
-        "imageOriginal": "imageOriginalComputingInPython"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Computing in Python.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Computing in Python.jpg"
     },
 
     {
         "title": "SQL for Business Users",
         "tags": ["Data Science", "SQL", "PostgreSQL"],
-        "imageShrinked": "imageShrinkedSQLForBusinessUsers",
-        "imageOriginal": "imageOriginalSQLForBusinessUsers"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/SQL for Business Users.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/SQL for Business Users.jpg"
     },
 
     {
         "title": "Statistical Analysis and Modeling Using SQL and Python",
         "tags": ["Data Science", "Statistical Analysis", "SQL", "PostgreSQL", "Python", "Pandas", "Numpy"],
-        "imageShrinked": "imageShrinkedStatisticalAnalysisAndModelingSQLPython",
-        "imageOriginal": "imageOriginalStatisticalAnalysisAndModelingSQLPython"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Statistical Analysis and Modeling Using SQL and Python.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Statistical Analysis and Modeling Using SQL and Python.jpg"
     },
 
     {
         "title": "Experimental Design and Analysis",
         "tags": ["Data Science", "Design of Experiments"],
-        "imageShrinked": "imageShrinkedExperimentalDesignAndAnalysis",
-        "imageOriginal": "imageOriginalExperimentalDesignAndAnalysis"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Experimental Design and Analysis.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Experimental Design and Analysis.jpg"
     },
 
     {
         "title": "Data Science and Machine Learning Using Python",
         "tags": ["Data Science", "Machine Learning", "Python", "Sci-kit learn", "Pandas", "Numpy", "Matplotlib", "Seaborn"],
-        "imageShrinked": "imageShrinkedDataScienceMachineLearningUsingPython",
-        "imageOriginal": "imageOriginalDataScienceMachineLearningUsingPython"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Data Science and Machine Learning Using Python.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Data Science and Machine Learning Using Python.jpg"
     },
 
     {
         "title": "Computing Microspecialization Pathway",
         "tags": ["Data Science", "Python", "Pandas", "Numpy"],
-        "imageShrinked": "imageShrinkedComputingMicrospecialization",
-        "imageOriginal": "imageOriginalComputingMicrospecialization"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/ComputingMicrospecialization Pathway.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/ComputingMicrospecialization Pathway.jpg"
     },
 
     {
         "title": "Data Visualization Microspecialization Pathway",
         "tags": ["Data Science", "Data Visualization", "Data Storytelling", "Excel", "Tableau", "Python", "Matplotlib", "Seaborn", "Plotly"],
-        "imageShrinked": "imageShrinkedDataVisualizationMicrospecialization",
-        "imageOriginal": "imageOriginalDataVisualizationMicrospecialization"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Data VisualizationMicrospecialization Pathway.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Data VisualizationMicrospecialization Pathway.jpg"
     },
 
     {
         "title": "Methods and Algorithms Microspecialization",
         "tags": ["Data Science", "Python", "Pandas", "Numpy"],    
-        "imageShrinked": "imageShrinkedMethodsAndAlgorithmsMicrospecialization",
-        "imageOriginal": "imageOriginalMethodsAndAlgorithmsMicrospecialization"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Methods and AlgorithmsMicrospecialization Pathway.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Methods and AlgorithmsMicrospecialization Pathway.jpg"
     },
 
     {
         "title": "Foundations: Data, Data, Everywhere",
         "tags": ["Data Analytics", "Foundations"],    
-        "imageShrinked": "imageShrinkedFoundationsDataEverywhere",
-        "imageOriginal": "imageOriginalFoundationsDataEverywhere"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Coursera 98WLY7GTYQXP.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Coursera 98WLY7GTYQXP.jpg"
     },
 
     {
         "title": "Ask Questions to Make Data- Driven Decisions",
         "tags": ["Data Analytics", "Art of Questioning"],    
-        "imageShrinked": "imageShrinkedAskQuestionsDataDrivenDecisions",
-        "imageOriginal": "imageOriginalAskQuestionsDataDrivenDecisions"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Coursera AFYSP9AT688L.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Coursera AFYSP9AT688L.jpg"
     },
  
     {
         "title": "Prepare Data for Exploration",
         "tags": ["Data Analytics", "SQL"],    
-        "imageShrinked": "imageShrinkedPrepareForDataExploration",
-        "imageOriginal": "imageOriginalPrepareForDataExploration"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Coursera NRBJSJUC23CB.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Coursera NRBJSJUC23CB.jpg"
     },
 
     {
         "title": "Process Data from Dirty To Clean",
         "tags": ["Data Analytics", "Cleaning", "SQL"],    
-        "imageShrinked": "imageShrinkedProcessDataFromDirtyToClean",
-        "imageOriginal": "imageOriginalProcessDataFromDirtyToClean"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Coursera X43NVBCNNG5R.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Coursera X43NVBCNNG5R.jpg"
     },
 
     {
         "title": "Analyze Data to Answer Questions",
         "tags": ["Data Analytics", "SQL"],    
-        "imageShrinked": "imageShrinkedAnalyzeDataToAnswerQuestions",
-        "imageOriginal": "imageOriginalAnalyzeDataToAnswerQuestions"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/MACH Build Python Web Apps with Flask.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/MACH Build Python Web Apps with Flask.jpg"
     },
 
     {
         "title": "Share Data Through the Art of Visualization",
         "tags": ["Data Visualization", "Data Storytelling", "Presentation", "Spreadsheet", "Slideshow", "Tableau"],    
-        "imageShrinked": "imageShrinkedShareDataThroughDataVisualization",
-        "imageOriginal": "imageOriginalShareDataThroughDataVisualization"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Coursera VEDAQDZHSQCW.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Coursera VEDAQDZHSQCW.jpg"
     },
 
     {
         "title": "Build Python Web Apps with Flask",
         "tags": ["Web Development", "Python", "Flask", "HTML5", "CSS3", "Bootstrap"],    
-        "imageShrinked": "imageShrinkedBuildPythonWebAppsFlask",
-        "imageOriginal": "imageOriginalBuildPythonWebAppsFlask"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Coursera X43NVBCNNG5R.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Coursera X43NVBCNNG5R.jpg"
     }
 ]
