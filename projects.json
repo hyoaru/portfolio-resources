@@ -13,8 +13,35 @@
         "image": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/projects/declutter.png",
         "description": "Web application that provides a platform for users to write and share their thoughts in a clutter-free space.",
         "repositoryURL": "https://github.com/hyoaru/declutter",
-        "liveURL": "https://ph-poverty-area-estimates.streamlit.app",
+        "liveURL": "https://declutter.onrender.com",
         "processURL": null 
+    },
+
+    {
+        "title": "A Not-So-Public Public Board",
+        "image": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/projects/a-not-so-public-public-board.png",
+        "description": "Web application that combines the concept of a freedom public board with a twist of encryption.",
+        "repositoryURL": "https://github.com/hyoaru/a-not-so-public-public-board",
+        "liveURL": "https://hyoaru.github.io/a-not-so-public-public-board/",
+        "processURL": null 
+    },
+
+    {
+        "title": "Cookhaina Directory",
+        "image": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/projects/cookhaina-directory.png",
+        "description": "A web application that functions as a digital cookbook. Built with Flask and utilizes the API provided by The Meal DB to retrieve information about meals.",
+        "repositoryURL": "https://github.com/hyoaru/cookhaina-directory",
+        "liveURL": "https://cookhaina-directory.onrender.com",
+        "processURL": null 
+    },
+
+    {
+        "title": "Google Data Analytics Capstone Case Study",
+        "image": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/projects/google-data-analytics-capstone.png",
+        "description": "A case study on a fictional bike share company based on Chicago. Aiming to gain valuable insights into customer behavior and usage patterns.",
+        "repositoryURL": "https://github.com/hyoaru/google-data-analytics-capstone-case-study",
+        "liveURL": null,
+        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/google-data-analytics-capstone-case-study/blob/master/capstone-case-study.html" 
     },
 
     {
