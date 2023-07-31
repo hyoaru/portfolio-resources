@@ -182,6 +182,13 @@
     },
 
     {
+        "title": "Google Data Analytics Capstone: Case Study",
+        "tags": ["Data Analytics", "Data Visualization", "R", "Python", "Ggplot", "Pandas"],    
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Coursera TM3X56CDLPCF.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Coursera TM3X56CDLPCF.jpg"
+    },
+
+    {
         "title": "Build Python Web Apps with Flask",
         "tags": ["Web Development", "Python", "Flask", "HTML5", "CSS3", "Bootstrap"],    
         "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Coursera X43NVBCNNG5R.jpg",
