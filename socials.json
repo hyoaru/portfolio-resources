@@ -41,10 +41,18 @@
 
     {
         "name": "discord",
-        "label": "hyo#1187",
+        "label": "@hyoaru",
         "link": "#",
         "iconClass": "fa-discord",
         "anchorClass": "pe-none"
+    },
+
+    {
+        "name": "instagram",
+        "label": "jij1nxed",
+        "link": "https://www.instagram.com/jij1nxed/",
+        "iconClass": "fa-instagram",
+        "anchorClass": ""
     },
 
     {
