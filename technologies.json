@@ -30,7 +30,7 @@
     {"technologyName": "ubuntu", "technologyLogo": "ubuntu", "bgColor": "eeeeee", "logoColor": "black"},
     {"technologyName": "zorin", "technologyLogo": "zorin", "bgColor": "eeeeee", "logoColor": "black"},
     {"technologyName": "vscode", "technologyLogo": "visualstudiocode", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "photoshop", "technologyLogo": "adobe%photoshop", "bgColor": "eeeeee", "logoColor": "black"},
+    {"technologyName": "photoshop", "technologyLogo": "adobe%20photoshop", "bgColor": "eeeeee", "logoColor": "black"},
     {"technologyName": "indesign", "technologyLogo": "adobeindesign", "bgColor": "eeeeee", "logoColor": "black"},
     {"technologyName": "premiere", "technologyLogo": "Adobe%20Premiere%20Pro", "bgColor": "eeeeee", "logoColor": "black"}
 ]
