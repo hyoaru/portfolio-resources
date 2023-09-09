@@ -170,15 +170,15 @@
     {
         "title": "Analyze Data to Answer Questions",
         "tags": ["Data Analytics", "SQL"],    
-        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/MACH Build Python Web Apps with Flask.jpg",
-        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/MACH Build Python Web Apps with Flask.jpg"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Coursera VEDAQDZHSQCW.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Coursera VEDAQDZHSQCW.jpg"
     },
 
     {
         "title": "Share Data Through the Art of Visualization",
         "tags": ["Data Visualization", "Data Storytelling", "Presentation", "Spreadsheet", "Slideshow", "Tableau"],    
-        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Coursera VEDAQDZHSQCW.jpg",
-        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Coursera VEDAQDZHSQCW.jpg"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Coursera VGLAE6SPCZUA.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Coursera VGLAE6SPCZUA.jpg"
     },
 
     {
@@ -191,7 +191,7 @@
     {
         "title": "Build Python Web Apps with Flask",
         "tags": ["Web Development", "Python", "Flask", "HTML5", "CSS3", "Bootstrap"],    
-        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/Coursera X43NVBCNNG5R.jpg",
-        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/Coursera X43NVBCNNG5R.jpg"
+        "imageShrinked": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/shrinked/MACH Build Python Web Apps with Flask.jpg",
+        "imageOriginal": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/certifications/original/MACH Build Python Web Apps with Flask.jpg"
     }
 ]
