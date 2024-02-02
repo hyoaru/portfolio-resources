@@ -5,7 +5,8 @@
         "description": "A course requirement in CS Elective 2, virtual storefront platform for a jewelry wholesaler based in Japan.",
         "repositoryURL": "https://github.com/hyoaru/rm-collection",
         "liveURL": "https://rea-mariz-collection.vercel.app",
-        "processURL": null
+        "processURL": null,
+        "tags": ["Next.js", "React", "ShadcnUi", "TailwindCSS", "Supabase", "Vercel"]
     },
     {
         "title": "Beyond Decor Portfolio And Inquiry Website",
@@ -13,7 +14,8 @@
         "description": "A course requirement in AL102. Portfolio and inquiry website system for Beyond Decor, a party and entertainment service.",
         "repositoryURL": "https://github.com/hyoaru/beyond-decor",
         "liveURL": "https://beyond-decor.vercel.app",
-        "processURL": null
+        "processURL": null,
+        "tags": ["Next.js", "React", "DaisyUi", "TailwindCSS", "Pocketbase", "Vercel"]
     },
     {
         "title": "Philippine Poverty Area Estimates Web App Choropleth Visualization",
@@ -21,7 +23,8 @@
         "description": "Web application providing a visual representation using a choropleth map of the estimated magnitude of poor families in the Philippines from the years 2006, 2009, 2012, and 2015.",
         "repositoryURL": "https://github.com/hyoaru/philippine-poverty-area-estimates-choropleth/tree/master",
         "liveURL": "https://ph-poverty-area-estimates.streamlit.app",
-        "processURL": null
+        "processURL": null,
+        "tags": ["Python", "Pandas", "Numpy", "Seaborn", "Plotly", "Jupyter", "Streamlit"]
     },
     {
         "title": "Declutter",
@@ -29,7 +32,8 @@
         "description": "Web application that provides a platform for users to write and share their thoughts in a clutter-free space.",
         "repositoryURL": "https://github.com/hyoaru/declutter",
         "liveURL": "https://declutter.onrender.com",
-        "processURL": null
+        "processURL": null,
+        "tags": ["Python", "Flask", "HTML", "CSS", "Bootstrap", "Supabase", "Render"]
     },
     {
         "title": "A Not-So-Public Public Board",
@@ -37,7 +41,8 @@
         "description": "Web application that combines the concept of a freedom public board with a twist of encryption.",
         "repositoryURL": "https://github.com/hyoaru/a-not-so-public-public-board",
         "liveURL": "https://hyoaru.github.io/a-not-so-public-public-board/",
-        "processURL": null
+        "processURL": null,
+        "tags": ["React", "Flask", "DaisyUi", "TailwindCSS", "Vigenere Cipher", "Github Pages"]
     },
     {
         "title": "Old Portfolio",
@@ -45,7 +50,8 @@
         "description": "My old personal portfolio that I made back when I was in my first year of college.",
         "repositoryURL": "https://github.com/hyoaru/old-portfolio",
         "liveURL": "https://hyoaru.github.io/old-portfolio/",
-        "processURL": null
+        "processURL": null,
+        "tags": ["React", "Bootstrap", "Github Pages"]
     },
     {
         "title": "Cookhaina Directory",
@@ -53,7 +59,8 @@
         "description": "A web application that functions as a digital cookbook. Built with Flask and utilizes the API provided by The Meal DB to retrieve information about meals.",
         "repositoryURL": "https://github.com/hyoaru/cookhaina-directory",
         "liveURL": "https://cookhaina-directory.onrender.com",
-        "processURL": null
+        "processURL": null,
+        "tags": ["Python", "Flask", "HTML", "CSS", "Javascript", "Bootstrap", "Public API", "Supabase", "Render"]
     },
     {
         "title": "Google Data Analytics Capstone Case Study",
@@ -61,7 +68,8 @@
         "description": "A case study on a fictional bike share company based on Chicago. Aiming to gain valuable insights into customer behavior and usage patterns.",
         "repositoryURL": "https://github.com/hyoaru/google-data-analytics-capstone-case-study",
         "liveURL": null,
-        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/google-data-analytics-capstone-case-study/blob/master/capstone-case-study.html"
+        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/google-data-analytics-capstone-case-study/blob/master/capstone-case-study.html",
+        "tags": ["Python", "R", "Tidyverse", "Pandas", "Jupyter"]
     },
     {
         "title": "SPARTA Capstone: Data Science and Machine Learning using Python",
@@ -69,7 +77,8 @@
         "description": "A machine learning peer graded capstone of Smarter Philippines through Data Analytics R&D, Training and Adoption (SPARTA).",
         "repositoryURL": "https://github.com/hyoaru/sparta-data-science-and-machine-learning-using-python",
         "liveURL": null,
-        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/sparta-data-science-and-machine-learning-using-python/blob/master/ml_ds_capstone.html"
+        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/sparta-data-science-and-machine-learning-using-python/blob/master/ml_ds_capstone.html",
+        "tags": ["Python", "Pandas", "Numpy", "Scikit-learn", "Jupyter", "Xgboost", "K-Neighbours Classifier", "Logistic Regression", "Random Forest Classifier"]
     },
     {
         "title": "SPARTA: Representing Data and Feature Engineering",
@@ -77,7 +86,8 @@
         "description": "A machine learning peer graded assignment of project SPARTA. Implementation of feature engineering on adult income data set.",
         "repositoryURL": "https://github.com/hyoaru/sparta-representing-data-and-feature-engineering",
         "liveURL": null,
-        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/sparta-representing-data-and-feature-engineering/blob/master/representing_data_and_feature_engineering.html"
+        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/sparta-representing-data-and-feature-engineering/blob/master/representing_data_and_feature_engineering.html",
+        "tags": ["Python", "Pandas", "Numpy", "Scikit-learn", "Jupyter", "Logistic Regression", "Random Forest Classifier", "Support Vector Machines"]
     },
     {
         "title": "SPARTA: Supervised ML Binary Classification",
@@ -85,7 +95,8 @@
         "description": "A machine learning peer graded assignment of project SPARTA. Implementation of machine learning classification on breast cancer wisconsin diagnostic data set.",
         "repositoryURL": "https://github.com/hyoaru/sparta-supervisedml-binary-classification",
         "liveURL": null,
-        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/sparta-supervisedml-binary-classification/blob/master/breast_cancer_binary_classification.html"
+        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/sparta-supervisedml-binary-classification/blob/master/breast_cancer_binary_classification.html",
+        "tags": ["Python", "Pandas", "Numpy", "Scikit-learn", "Jupyter", "Logistic Regression", "Random Forest Classifier"]
     },
     {
         "title": "SPARTA: Unsupervised ML Clustering",
@@ -93,7 +104,8 @@
         "description": "A machine learning peer graded assignment of project SPARTA. Implementation of machine learning clustering on iris plants data set.",
         "repositoryURL": "https://github.com/hyoaru/sparta-unsupervisedml-clustering",
         "liveURL": null,
-        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/sparta-unsupervisedml-clustering/blob/master/iris_clustering.html"
+        "processURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/sparta-unsupervisedml-clustering/blob/master/iris_clustering.html",
+        "tags": ["Python", "Pandas", "Numpy", "Scikit-learn", "Jupyter", "KMeans Clutering", "DBSCAN", "Agglomerative Clustering"]
     },
     {
         "title": "Data Visualization: Prime Number Forest",
@@ -101,7 +113,8 @@
         "description": "An interactive data visualization made with python, plotly, pandas, and numpy, of how prime numbers from 1 - 200 would look like if it was a forest.",
         "repositoryURL": "https://github.com/hyoaru/prime-number-forest-3d",
         "liveURL": "https://htmlpreview.github.io/?https://github.com/hyoaru/prime-number-forest-3d/blob/master/mesh_art_plot.html",
-        "processURL": null
+        "processURL": null,
+        "tags": ["Python", "Pandas", "Numpy", "Plotly", "Github Pages"]
     },
     {
         "title": "Expression Converter",
@@ -109,7 +122,8 @@
         "description": "A course requirement in data structures and algorithm: java application made with java swing designed to provide a user-friendly interface for converting expressions between infix, prefix, and postfix notations.",
         "repositoryURL": "https://github.com/hyoaru/expression-converter",
         "liveURL": null,
-        "processURL": null
+        "processURL": null,
+        "tags": ["Java", "Java Swing GUI", "Data Structure", "Stack"]
     },
     {
         "title": "Anagram",
@@ -117,6 +131,7 @@
         "description": "A midterm course requirement for CS Professional Elective 1: web-based anagram game made using HTML, CSS, and vanilla JS.",
         "repositoryURL": "https://github.com/hyoaru/anagram",
         "liveURL": "https://hyoaru.github.io/anagram/",
-        "processURL": null
+        "processURL": null,
+        "tags": ["HTML", "CSS", "Javascript", "Bootstrap"]
     }
 ]
