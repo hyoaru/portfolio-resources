@@ -40,6 +40,14 @@
         "processURL": null
     },
     {
+        "title": "Old Portfolio",
+        "image": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/projects/old-portfolio.png",
+        "description": "My old personal portfolio that I made back when I was in my first year of college.",
+        "repositoryURL": "https://github.com/hyoaru/old-portfolio",
+        "liveURL": "https://hyoaru.github.io/old-portfolio/",
+        "processURL": null
+    },
+    {
         "title": "Cookhaina Directory",
         "image": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/projects/cookhaina-directory.png",
         "description": "A web application that functions as a digital cookbook. Built with Flask and utilizes the API provided by The Meal DB to retrieve information about meals.",
