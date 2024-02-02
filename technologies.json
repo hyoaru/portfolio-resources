@@ -1,36 +1,170 @@
-[   
-    {"technologyName": "python", "technologyLogo": "python", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "javascript", "technologyLogo": "javascript", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "r", "technologyLogo": "r", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "java", "technologyLogo": "openjdk", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "dart", "technologyLogo": "dart", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "csharp", "technologyLogo": "csharp", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "bash", "technologyLogo": "gnu-bash", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "html", "technologyLogo": "html5", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "css", "technologyLogo": "css3", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "react", "technologyLogo": "react", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "bootstrap", "technologyLogo": "bootstrap", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "tailwindcss", "technologyLogo": "tailwindcss", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "daisyui", "technologyLogo": "daisyui", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "flutter", "technologyLogo": "flutter", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "postgresql", "technologyLogo": "postgresql", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "mysql", "technologyLogo": "mysql", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "flask", "technologyLogo": "flask", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "streamlit", "technologyLogo": "streamlit", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "ggplot", "technologyLogo": "tidyverse", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "pandas", "technologyLogo": "pandas", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "numpy", "technologyLogo": "numpy", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "seaborn", "technologyLogo": "python", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "plotly", "technologyLogo": "plotly", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "sklearn", "technologyLogo": "scikitlearn", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "git", "technologyLogo": "git", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "github", "technologyLogo": "github", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "jupyter", "technologyLogo": "jupyter", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "linux", "technologyLogo": "linux", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "ubuntu", "technologyLogo": "ubuntu", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "zorin", "technologyLogo": "zorin", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "vscode", "technologyLogo": "visualstudiocode", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "photoshop", "technologyLogo": "adobe%20photoshop", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "indesign", "technologyLogo": "adobeindesign", "bgColor": "eeeeee", "logoColor": "black"},
-    {"technologyName": "premiere", "technologyLogo": "Adobe%20Premiere%20Pro", "bgColor": "eeeeee", "logoColor": "black"}
+[
+    {
+        "name": "python",
+        "logo": "python"
+    },
+    {
+        "name": "javascript",
+        "logo": "javascript"
+    },
+    {
+        "name": "typscript",
+        "logo": "typescript"
+    },
+    {
+        "name": "r",
+        "logo": "r"
+    },
+    {
+        "name": "java",
+        "logo": "openjdk"
+    },
+    {
+        "name": "php",
+        "logo": "php"
+    },
+    {
+        "name": "dart",
+        "logo": "dart"
+    },
+    {
+        "name": "csharp",
+        "logo": "csharp"
+    },
+    {
+        "name": "bash",
+        "logo": "gnubash"
+    },
+    {
+        "name": "html",
+        "logo": "html5"
+    },
+    {
+        "name": "css",
+        "logo": "css3"
+    },
+    {
+        "name": "react",
+        "logo": "react"
+    },
+    {
+        "name": "nextjs",
+        "logo": "nextdotjs"
+    },
+    {
+        "name": "codeigniter",
+        "logo": "codeigniter"
+    },
+    {
+        "name": "bootstrap",
+        "logo": "bootstrap"
+    },
+    {
+        "name": "tailwindcss",
+        "logo": "tailwindcss"
+    },
+    {
+        "name": "daisyui",
+        "logo": "daisyui"
+    },
+    {
+        "name": "shadcnui",
+        "logo": "shadcnui"
+    },
+    {
+        "name": "nextui",
+        "logo": "nextui"
+    },
+    {
+        "name": "flutter",
+        "logo": "flutter"
+    },
+    {
+        "name": "postgresql",
+        "logo": "postgresql"
+    },
+    {
+        "name": "mysql",
+        "logo": "mysql"
+    },
+    {
+        "name": "supabase",
+        "logo": "supabase"
+    },
+    {
+        "name": "pocketbase",
+        "logo": "pocketbase"
+    },
+    {
+        "name": "flask",
+        "logo": "flask"
+    },
+    {
+        "name": "streamlit",
+        "logo": "streamlit"
+    },
+    {
+        "name": "ggplot",
+        "logo": "tidyverse"
+    },
+    {
+        "name": "pandas",
+        "logo": "pandas"
+    },
+    {
+        "name": "numpy",
+        "logo": "numpy"
+    },
+    {
+        "name": "seaborn",
+        "logo": "python"
+    },
+    {
+        "name": "plotly",
+        "logo": "plotly"
+    },
+    {
+        "name": "sklearn",
+        "logo": "scikitlearn"
+    },
+    {
+        "name": "git",
+        "logo": "git"
+    },
+    {
+        "name": "github",
+        "logo": "github"
+    },
+    {
+        "name": "jupyter",
+        "logo": "jupyter"
+    },
+    {
+        "name": "linux",
+        "logo": "linux"
+    },
+    {
+        "name": "ubuntu",
+        "logo": "ubuntu"
+    },
+    {
+        "name": "zorin",
+        "logo": "zorin"
+    },
+    {
+        "name": "vscode",
+        "logo": "visualstudiocode"
+    },
+    {
+        "name": "photoshop",
+        "logo": "adobephotoshop"
+    },
+    {
+        "name": "indesign",
+        "logo": "adobeindesign"
+    },
+    {
+        "name": "premiere",
+        "logo": "adobepremierepro"
+    }
 ]

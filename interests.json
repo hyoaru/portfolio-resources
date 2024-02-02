@@ -1,37 +1,37 @@
 [
     {
         "name": "Data Science",
-        "bits": "[python, r, tidyverse, pandas, numpy, seaborn, plotly, sklearn, keras]"
+        "bits": ["python", "r", "tidyverse", "pandas", "numpy", "seaborn", "plotly", "sklearn", "keras"]
     },
 
     {
         "name": "Web Development",
-        "bits": "[html5, css3, python, javascript, flask, react]"
+        "bits": ["html5", "css3", "python", "javascript", "flask", "react", "javascript", "typescript", "nextjs", "php", "codeiniter", "supabase", "pocketbase"]
     },
 
     {
         "name": "App Development",
-        "bits": "[dart, flutter]"
+        "bits": ["dart", "flutter"]
     },
 
     {
         "name": "Game Development",
-        "bits": "[python, java, pygame, greenfoot]"
+        "bits": ["python", "java", "pygame", "greenfoot"]
     },
 
     {
         "name": "Multi-platform Development",
-        "bits": "[dart, flutter]"
+        "bits": ["dart", "flutter"]
     },
 
     {
         "name": "Linguistics",
-        "bits": "[french]"
+        "bits": ["french"]
     },
 
     {
         "name": "Calculus",
         "former": true,
-        "bits": "[non-standard analysis]"
+        "bits": ["non-standard analysis"]
     }
 ]
