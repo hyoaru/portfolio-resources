@@ -1,12 +1,22 @@
 [
     {
+        "title": "Cookhaina Directory - Flutter",
+        "image": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/projects/cookhaina-directory-flutter.png",
+        "description": "A course requirement in CS Elective 3, digital cookbook made with flutter powered by TheMealDB API.",
+        "repositoryURL": "https://github.com/hyoaru/cookhaina-directory-flutter",
+        "liveURL": "https://github.com/monoaru/cookhaina-directory-flutter/releases",
+        "processURL": null,
+        "tags": ["Dart", "Flutter"],
+        "year": 2024
+    },
+    {
         "title": "RM Collection Virtual Storefront Platform",
         "image": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/projects/rm-collection.png",
         "description": "A course requirement in CS Elective 2, virtual storefront platform for a jewelry wholesaler based in Japan.",
         "repositoryURL": "https://github.com/hyoaru/rm-collection",
         "liveURL": "https://rea-mariz-collection.vercel.app",
         "processURL": null,
-        "tags": ["Next.js", "React", "ShadcnUi", "TailwindCSS", "Supabase", "Vercel"],
+        "tags": ["TypeScript", "Next.js", "React", "Tanstack", "ShadcnUi", "TailwindCSS", "Supabase", "Vercel"],
         "year": 2023
     },
     {
