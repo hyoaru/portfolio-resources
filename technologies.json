@@ -65,7 +65,6 @@
     "name": "codeigniter",
     "logo": "codeigniter"
   },
-
   {
     "name": "laravel",
     "logo": "laravel"
@@ -118,6 +117,21 @@
   {
     "name": "flask",
     "logo": "flask"
+  },
+
+  {
+    "name": "flask-restx",
+    "logo": "flask-restx"
+  },
+
+  {
+    "name": "open api",
+    "logo": "openapiinitiative"
+  },
+
+  {
+    "name": "swagger",
+    "logo": "swagger"
   },
   {
     "name": "streamlit",
