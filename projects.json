@@ -1,12 +1,32 @@
 [
   {
-    "title": "RPH - Rizal Retraction Relationship Graph Visualization",
-    "image": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/projects/rph-retraction-visualization.png",
-    "description": "A task output in GEC 3 RPH, Jose Rizal's retraction relationship graph visualization ",
-    "repositoryURL": "https://github.com/hyoaru/rph-retraction-relationship-visualization/",
-    "liveURL": "https://hyoaru.github.io/rph-retraction-relationship-visualization/",
+    "title": "Anonalyze - An NLP-Enhanced and ML-Driven Platform for Sentiment and Insight Extraction ",
+    "image": "https://cdn.jsdelivr.net/gh/hyoaru/portfolio-resources/assets/images/projects/anonalyze.png",
+    "description": "Anonalyze is a platform built to transform unstructured feedback into actionable insights using Natural Language Processing (NLP) and Machine Learning (ML). Originally developed as a thesis project, it empowers users to gather and analyze anonymous feedback, track sentiment trends, and unlock valuable insights from diverse audiences.",
+    "liveURL": "https://anonalyze.org",
     "processURL": null,
-    "tags": ["React", "Typescript"],
+    "tags": [
+      "Typescript",
+      "PHP",
+      "Python",
+      "React",
+      "Laravel",
+      "Flask",
+      "Swagger",
+      "Scikit-learn",
+      "Nginx",
+      "Docker",
+      "Machine Learning",
+      "Naive Bayes",
+      "Multinomial Classification",
+      "Term-Frequency Inverse Document Frequency",
+      "Rapid Automatic Keyword Extraction",
+      "LLM Integration",
+      "Reverse Proxy",
+      "Load Balancing",
+      "API-First Architecture",
+      "Cloudflare"
+    ],
     "year": 2024
   },
   {
@@ -265,4 +285,3 @@
     "year": 2022
   }
 ]
-
