@@ -111,6 +111,10 @@
     "logo": "supabase"
   },
   {
+    "name": "nocodb",
+    "logo": "nocodb"
+  },
+  {
     "name": "pocketbase",
     "logo": "pocketbase"
   },
@@ -118,7 +122,10 @@
     "name": "flask",
     "logo": "flask"
   },
-
+  {
+    "name": "fastapi",
+    "logo": "fastapi"
+  },
   {
     "name": "flask-restx",
     "logo": "flask-restx"
@@ -136,6 +143,10 @@
   {
     "name": "streamlit",
     "logo": "streamlit"
+  },
+  {
+    "name": "pydantic",
+    "logo": "pydantic"
   },
   {
     "name": "ggplot",
@@ -162,6 +173,10 @@
     "logo": "scikitlearn"
   },
   {
+    "name": "robot framework",
+    "logo": "robotframework"
+  },
+  {
     "name": "git",
     "logo": "git"
   },
@@ -170,8 +185,20 @@
     "logo": "github"
   },
   {
+    "name": "jenkins",
+    "logo": "jenkins"
+  },
+  {
     "name": "jupyter",
     "logo": "jupyter"
+  },
+  {
+    "name": "n8n",
+    "logo": "n8n"
+  },
+  {
+    "name": "vapi",
+    "logo": "vectary"
   },
   {
     "name": "linux",
@@ -211,4 +238,3 @@
     "logo": "adobepremierepro"
   }
 ]
-
