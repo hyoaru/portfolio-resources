@@ -293,8 +293,8 @@
   },
 
   {
-    "name": "linux",
-    "logo": "linux",
+    "name": "vscodium",
+    "logo": "vscodium",
     "category": "Development Environment"
   },
   {
@@ -308,18 +308,23 @@
     "category": "Development Environment"
   },
   {
+    "name": "linux",
+    "logo": "linux",
+    "category": "Development Environment"
+  },
+  {
     "name": "ubuntu",
     "logo": "ubuntu",
     "category": "Development Environment"
   },
   {
-    "name": "vscodium",
-    "logo": "vscodium",
+    "name": "zorin",
+    "logo": "zorin",
     "category": "Development Environment"
   },
   {
-    "name": "zorin",
-    "logo": "zorin",
+    "name": "macos",
+    "logo": "macos",
     "category": "Development Environment"
   },
 
