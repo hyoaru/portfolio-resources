@@ -3,7 +3,7 @@
     "title": "Google Data Analytics Capstone: Case Study",
     "image": "Coursera TM3X56CDLPCF.jpg",
     "issuer": "Google",
-    "issedAt": "2023-07-10",
+    "issuedAt": "2023-07-10",
     "tags": [
       "Data Analytics",
       "Data Visualization",
@@ -18,7 +18,7 @@
     "title": "Data Analysis with R Programming",
     "image": "Coursera 83NPJR94JBK6.pdf",
     "issuer": "Google",
-    "issedAt": "2023-06-26",
+    "issuedAt": "2023-06-26",
     "tags": ["Data Analytics", "R", "Ggplot"]
   },
 
@@ -26,7 +26,7 @@
     "title": "Share Data Through the Art of Visualization",
     "image": "Coursera VGLAE6SPCZUA.jpg",
     "issuer": "Google",
-    "issedAt": "2023-05-19",
+    "issuedAt": "2023-05-19",
     "tags": [
       "Data Visualization",
       "Data Storytelling",
@@ -41,7 +41,7 @@
     "title": "Analyze Data to Answer Questions",
     "image": "Coursera VEDAQDZHSQCW.jpg",
     "issuer": "Google",
-    "issedAt": "2023-04-22",
+    "issuedAt": "2023-04-22",
     "tags": ["Data Analytics", "SQL"]
   },
 
@@ -49,7 +49,7 @@
     "title": "Process Data from Dirty To Clean",
     "image": "Coursera X43NVBCNNG5R.jpg",
     "issuer": "Google",
-    "issedAt": "2023-04-06",
+    "issuedAt": "2023-04-06",
     "tags": ["Data Analytics", "Cleaning", "SQL"]
   },
 
@@ -57,7 +57,7 @@
     "title": "Prepare Data for Exploration",
     "image": "Coursera NRBJSJUC23CB.jpg",
     "issuer": "Google",
-    "issedAt": "2023-01-10",
+    "issuedAt": "2023-01-10",
     "tags": ["Data Analytics", "SQL"]
   },
 
@@ -65,7 +65,7 @@
     "title": "Foundations: Data, Data, Everywhere",
     "image": "Coursera 98WLY7GTYQXP.jpg",
     "issuer": "Google",
-    "issedAt": "2022-12-12",
+    "issuedAt": "2022-12-12",
     "tags": ["Data Analytics", "Foundations"]
   },
 
@@ -73,7 +73,7 @@
     "title": "Ask Questions to Make Data- Driven Decisions",
     "image": "Coursera AFYSP9AT688L.jpg",
     "issuer": "Google",
-    "issedAt": "2022-11-30",
+    "issuedAt": "2022-11-30",
     "tags": ["Data Analytics", "Art of Questioning"]
   },
 
@@ -81,7 +81,7 @@
     "title": "Methods and Algorithms Microspecialization",
     "image": "Methods and AlgorithmsMicrospecialization Pathway.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2022-09-19",
+    "issuedAt": "2022-09-19",
     "tags": ["Data Science", "Python", "Pandas", "Numpy"]
   },
 
@@ -89,7 +89,7 @@
     "title": "Data Science and Machine Learning Using Python",
     "image": "Data Science and Machine Learning Using Python.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2022-09-18",
+    "issuedAt": "2022-09-18",
     "tags": [
       "Data Science",
       "Machine Learning",
@@ -106,7 +106,7 @@
     "title": "Computing Microspecialization Pathway",
     "image": "ComputingMicrospecialization Pathway.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2022-09-17",
+    "issuedAt": "2022-09-17",
     "tags": ["Data Science", "Python", "Pandas", "Numpy"]
   },
 
@@ -114,7 +114,7 @@
     "title": "Build Python Web Apps with Flask",
     "image": "MACH Build Python Web Apps with Flask.jpg",
     "issuer": "Department of Information and Communications Technology Philippines",
-    "issedAt": "2022-08-27",
+    "issuedAt": "2022-08-27",
     "tags": ["Web Development", "Python", "Flask", "HTML5", "CSS3", "Bootstrap"]
   },
 
@@ -122,7 +122,7 @@
     "title": "Analyze Data with Python",
     "image": "MACH Analyze Data with Python.jpg",
     "issuer": "Department of Information and Communications Technology Philippines",
-    "issedAt": "2022-08-15",
+    "issuedAt": "2022-08-15",
     "tags": ["Data Analytics", "Python", "Pandas", "Numpy"]
   },
 
@@ -130,7 +130,7 @@
     "title": "Basic Statistics with Python",
     "image": "MACH Basic Statistics with Python.jpg",
     "issuer": "Department of Information and Communications Technology Philippines",
-    "issedAt": "2022-07-15",
+    "issuedAt": "2022-07-15",
     "tags": ["Data Analytics", "Python", "Pandas", "Numpy"]
   },
 
@@ -138,7 +138,7 @@
     "title": "Visualize Data with Python",
     "image": "MACH Visualize Data with Python.jpg",
     "issuer": "Department of Information and Communications Technology Philippines",
-    "issedAt": "2022-07-15",
+    "issuedAt": "2022-07-15",
     "tags": ["Data Analytics", "Python", "Pandas", "Matplotlib"]
   },
 
@@ -146,7 +146,7 @@
     "title": "Experimental Design and Analysis",
     "image": "Experimental Design and Analysis.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2022-07-14",
+    "issuedAt": "2022-07-14",
     "tags": ["Data Science", "Design of Experiments"]
   },
 
@@ -154,7 +154,7 @@
     "title": "Programming For Beginners Using Python",
     "image": "MACH Programming For Beginners Using Python.jpg",
     "issuer": "Department of Information and Communications Technology Philippines",
-    "issedAt": "2022-07-12",
+    "issuedAt": "2022-07-12",
     "tags": ["General Programming", "Python"]
   },
 
@@ -162,7 +162,7 @@
     "title": "Programming for Intermediate Users Using Python",
     "image": "MACH Programming for Intermediate Users Using Python.jpg",
     "issuer": "Department of Information and Communications Technology Philippines",
-    "issedAt": "2022-07-12",
+    "issuedAt": "2022-07-12",
     "tags": ["General Programming", "Python"]
   },
 
@@ -170,7 +170,7 @@
     "title": "Data Visualization Using Tableau and Python",
     "image": "Data Visualization Using Tableau and Python.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2022-07-02",
+    "issuedAt": "2022-07-02",
     "tags": [
       "Data Science",
       "Data Visualization",
@@ -185,7 +185,7 @@
     "title": "Data Visualization Microspecialization Pathway",
     "image": "Data VisualizationMicrospecialization Pathway.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2022-07-02",
+    "issuedAt": "2022-07-02",
     "tags": [
       "Data Science",
       "Data Visualization",
@@ -203,7 +203,7 @@
     "title": "Storytelling Using Data",
     "image": "Storytelling Using Data.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2022-07-02",
+    "issuedAt": "2022-07-02",
     "tags": ["Data Analytics", "Data Storytelling"]
   },
 
@@ -211,7 +211,7 @@
     "title": "Data Visualization Fundamentals",
     "image": "Data Visualization Fundamentals.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2022-07-02",
+    "issuedAt": "2022-07-02",
     "tags": ["Data Analytics", "Data Visualization", "Excel"]
   },
 
@@ -219,7 +219,7 @@
     "title": "SQL for Business Users",
     "image": "SQL for Business Users.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2022-07-02",
+    "issuedAt": "2022-07-02",
     "tags": ["Data Science", "SQL", "PostgreSQL"]
   },
 
@@ -227,7 +227,7 @@
     "title": "Dashboard and Drill-Down Analytics",
     "image": "Dashboards and Drill-Down Analytics.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2022-07-02",
+    "issuedAt": "2022-07-02",
     "tags": ["Data Science", "Drill-Down Analytics", "Dashboards", "Excel"]
   },
 
@@ -235,7 +235,7 @@
     "title": "Data Management Fundamentals",
     "image": "Data Management Fundamentals.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2022-07-02",
+    "issuedAt": "2022-07-02",
     "tags": ["Data Management", "Data Ethics"]
   },
 
@@ -243,7 +243,7 @@
     "title": "Getting Grounded on Analytics",
     "image": "Getting Grounded on Analytics.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2022-07-02",
+    "issuedAt": "2022-07-02",
     "tags": ["Data Analytics", "Analytics", "Python"]
   },
 
@@ -251,7 +251,7 @@
     "title": "Statistical Analysis and Modeling Using SQL and Python",
     "image": "Statistical Analysis and Modeling Using SQL and Python.jpg",
     "issuer": "Department of Information and Communications Technology Philippines",
-    "issedAt": "2022-05-09",
+    "issuedAt": "2022-05-09",
     "tags": [
       "Data Science",
       "Statistical Analysis",
@@ -267,7 +267,7 @@
     "title": "Computing in Python",
     "image": "Computing in Python.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2022-02-05",
+    "issuedAt": "2022-02-05",
     "tags": ["Data Science", "Python", "Pandas", "Numpy"]
   },
 
@@ -275,7 +275,7 @@
     "title": "Essential Excel Skills for Data Preparation and Analysis",
     "image": "Essential Excel Skills for Data Preparation and Analysis.jpg",
     "issuer": "Development Academy of the Philippines (DAP)",
-    "issedAt": "2021-01-07",
+    "issuedAt": "2021-01-07",
     "tags": ["Data Analytics", "Data Preparation", "Excel"]
   }
 ]
