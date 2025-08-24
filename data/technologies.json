@@ -202,7 +202,7 @@
   },
   {
     "name": "allure",
-    "logo": "allure",
+    "logo": "circle",
     "category": "Frameworks & Libraries"
   },
 
@@ -243,7 +243,7 @@
   },
   {
     "name": "browserstack",
-    "logo": "browserstack",
+    "logo": "bt",
     "category": "Infrastructures & Services"
   },
   {
@@ -268,7 +268,7 @@
   },
   {
     "name": "aws ec2",
-    "logo": "amazonaws",
+    "logo": "cloudways",
     "category": "Infrastructures & Services"
   },
   {
@@ -325,17 +325,17 @@
 
   {
     "name": "indesign",
-    "logo": "a-frame",
+    "logo": "aframe",
     "category": "Creative Suite"
   },
   {
     "name": "photoshop",
-    "logo": "a-frame",
+    "logo": "aframe",
     "category": "Creative Suite"
   },
   {
     "name": "premiere",
-    "logo": "a-frame",
+    "logo": "aframe",
     "category": "Creative Suite"
   }
 ]
