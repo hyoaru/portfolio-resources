@@ -1,5 +1,23 @@
 [
   {
+    "title": "AWS Cloud Practitioner Essentials",
+    "image": "AWS Cloud Practitioner Essentials.jpg",
+    "issuer": "AWS",
+    "issuedAt": "2025-08-18",
+    "tags": [
+      "Compute in the Cloud",
+      "Cloud Infrastructure",
+      "Scalability",
+      "Networking",
+      "Storage",
+      "Databases",
+      "Security",
+      "Identity and Access Management (IAM)",
+      "Monitoring and Logging"
+    ]
+  },
+
+  {
     "title": "Google Data Analytics Capstone: Case Study",
     "image": "Coursera TM3X56CDLPCF.jpg",
     "issuer": "Google",
