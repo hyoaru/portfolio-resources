@@ -2,7 +2,7 @@
   {
     "company": "Philippine Digital Asset Exchange",
     "position": "Senior Associate Software Quality Engineer",
-    "location": "Ortigas Center, Metro Manila, Philippines",
+    "country": "Philippines",
     "modality": "On-site",
     "type": "Full-time",
     "startedAt": "2025-04",
@@ -41,7 +41,7 @@
   {
     "company": "Philippine Digital Asset Exchange",
     "position": "Software Quality Engineer Intern",
-    "location": "Ortigas Center, Metro Manila, Philippines",
+    "country": "Philippines",
     "modality": "On-site",
     "type": "Internship",
     "startedAt": "2025-02",
@@ -69,7 +69,7 @@
   {
     "company": "Navigent",
     "position": "Backend & AI Agent Workflow Engineer",
-    "location": "Taiwan",
+    "country": "Taiwan",
     "modality": "Remote",
     "type": "Internship",
     "startedAt": "2025-01",
@@ -153,7 +153,7 @@
   {
     "company": "Freelance",
     "position": "Full-Stack Developer",
-    "location": "Japan",
+    "country": "Japan",
     "modality": "Hybrid",
     "type": "Contract",
     "startedAt": "2023-11",
