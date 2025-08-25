@@ -6,7 +6,7 @@
     "modality": "On-site",
     "type": "Full-time",
     "startedAt": "2025-04",
-    "endedAt": "Present",
+    "endedAt": null,
     "technologies": [
       "Amazon Web Services (AWS)",
       "AWS EC2",
