@@ -2,6 +2,7 @@
   {
     "company": "Philippine Digital Asset Exchange (PDAX)",
     "position": "Senior Associate Software Quality Engineer",
+    "summary": "Architected and implemented a scalable and comprehensive quality engineering infrastructure, focusing on automation, performance, and streamlined collaboration. Developed robust automation frameworks and a performance testing ecosystem to ensure high-quality software delivery.",
     "country": "Philippines",
     "modality": "On-site",
     "type": "Full-time",
@@ -41,6 +42,7 @@
   {
     "company": "Philippine Digital Asset Exchange (PDAX)",
     "position": "Software Quality Engineer Intern",
+    "summary": "Created test automation continuous integration pipelines for a backend and client application. Designed and implemented a CI/CD pipeline to streamline the testing and code analysis process.",
     "country": "Philippines",
     "modality": "On-site",
     "type": "Internship",
@@ -69,6 +71,7 @@
   {
     "company": "Navigent",
     "position": "Backend & AI Agent Workflow Engineer",
+    "summary": "Specialized in creating and deploying voice AI agents for business automation. Developed backend APIs and integrated various tools to manage complex conversational flows and data models, focusing on enhancing customer interaction.",
     "country": "Taiwan",
     "modality": "Remote",
     "type": "Internship",
@@ -92,6 +95,7 @@
   {
     "company": "Freelance",
     "position": "Backend & Machine Learning Engineer",
+    "summary": "Developed a machine learning-based system for legal document analysis. Focused on creating a scalable pipeline for natural language processing and inference to automate document evaluation and validation.",
     "modality": "Remote",
     "type": "Contract",
     "startedAt": "2024-09",
@@ -128,6 +132,7 @@
   {
     "company": "Freelance",
     "position": "Flutter & React Developer",
+    "summary": "Developed a virtual tour system consisting of a kiosk application and a web app. Focused on creating immersive user experiences and efficient data management for both platforms.",
     "modality": "Remote",
     "type": "Contract",
     "startedAt": "2024-06",
@@ -153,6 +158,7 @@
   {
     "company": "Freelance",
     "position": "Full-Stack Developer",
+    "summary": "Developed a virtual storefront for a Japanese jewelry business. Focused on creating a responsive and seamless e-commerce experience, handling both front-end and back-end development.",
     "country": "Japan",
     "modality": "Hybrid",
     "type": "Contract",
