@@ -1,0 +1,178 @@
+[
+  {
+    "company": "Philippine Digital Asset Exchange",
+    "logo": "pdax.jpg",
+    "position": "Senior Associate Software Quality Engineer",
+    "location": "Hybrid",
+    "type": "Full-time",
+    "startDate": "2025-04",
+    "endDate": "Present",
+    "technologies": [
+      "Amazon Web Services (AWS)",
+      "AWS EC2",
+      "Containerization",
+      "Docker",
+      "Hashicorp Vault",
+      "Reverse Proxy",
+      "Nginx",
+      "Continuous Integration (CI)",
+      "Jenkins",
+      "Slack Integration",
+      "Test Automation",
+      "Performance Testing",
+      "Grafana",
+      "Grafana K6",
+      "InfluxDB",
+      "Typescript",
+      "Functional Testing",
+      "Robot Framework",
+      "Allure",
+      "Robot Framework Requests",
+      "Robot Framework Appium",
+      "Browserstack",
+      "Grafana Loki"
+    ],
+    "highlights": [
+      "Built scalable automation frameworks for backend, mobile, and API testing using Robot Framework, Appium, BrowserStack, Jenkins, and Hashicorp Vault with both CI/CD and on-demand pipelines.",
+      "Designed and implemented a performance testing ecosystem with Grafana K6, InfluxDB, Grafana, and Loki, enabling real-time monitoring, reporting, and scalable load testing.",
+      "Established a centralized QE infrastructure leveraging Docker, Nginx, Jenkins, Vault, and Grafana to streamline test execution, reporting, and team collaboration."
+    ]
+  },
+  {
+    "company": "Philippine Digital Asset Exchange",
+    "logo": "pdax.jpg",
+    "position": "Software Quality Engineer Intern",
+    "location": "Hybrid",
+    "type": "Internship",
+    "startDate": "2025-02",
+    "endDate": "2025-04",
+    "technologies": [
+      "CI/CD",
+      "Automation Testing",
+      "Jenkins",
+      "Robot Framework",
+      "Docker",
+      "Docker-in-Docker",
+      "Containerization",
+      "Sonarqube",
+      "FastAPI",
+      "PydanticAI",
+      "Typescript",
+      "React"
+    ],
+    "highlights": [
+      "Built an API and client app of an implementation of an AI agent using FastAPI and PyanticAI for API and Typescript and React for client side.",
+      "Developed test automation scripts for thereof using Robot Framework with its playwright and requests implementation to address and test the API and client app.",
+      "Designed the pipeline using jenkins with hybrid testing methodology of implementing unit tests and static code analysis using SonarQube on feature branch push and smoke tests on develop branch pull request then full test on pull request to master."
+    ]
+  },
+  {
+    "company": "Navigent",
+    "logo": "building.jpg",
+    "position": "Backend & AI Agent Workflow Engineer",
+    "location": "Remote",
+    "type": "Internship",
+    "startDate": "2025-01",
+    "endDate": "2025-02",
+    "technologies": [
+      "N8N",
+      "VAPI",
+      "NocoDB",
+      "FastAPI",
+      "PydanticAI",
+      "Pydantic",
+      "Python"
+    ],
+    "highlights": [
+      "Developed 2 voice AI agent for a restaurant business and a construction firm using N8N, VAPI, NocoDB, Twillio, FastAPI, PydanticAI, and OpenRouter ",
+      "Designed and implemented voice interaction flows using N8N and VAPI to handle customer inquiries and automate customer making a booking or an order via voice alone.",
+      "Build backend APIs with FastAPI and structured data models with PydanticAI for agent reasoning."
+    ]
+  },
+  {
+    "company": "Freelance",
+    "logo": "building.jpg",
+    "position": "Backend & Machine Learning Engineer",
+    "location": "Hybrid",
+    "type": "Contract",
+    "startDate": "2024-09",
+    "endDate": "2024-12",
+    "technologies": [
+      "Cloudflare",
+      "Tunnelling",
+      "Zero Trust",
+      "Containerization",
+      "Docker",
+      "Reverse Proxy",
+      "Nginx",
+      "Pocketbase",
+      "Flask",
+      "Python",
+      "Express.js",
+      "Javascript",
+      "Typescript",
+      "OpenAPI",
+      "Data Science",
+      "Machine Learning",
+      "Scikit Learn",
+      "Natural Language Processing (NLP)",
+      "Text Tokenization",
+      "Global Vectors for Word Representation (GLoVe)",
+      "Sentece Transformers (SBERT)"
+    ],
+    "highlights": [
+      "Created a machine learning and NLP-based document attribution system for assessing the HGDG alignment of a legal document, automating evaluation and validation with a focus on scalability.",
+      "Designed a pipeline to tokenize and embed document text using GloVe and SBERT embeddings, extract the most relevant sentences for specific questions using cosine similarity, and validate responses through Natural Language Inference (NLI).",
+      "Built a robust backend infrastructure using Flask and Flask-RESTX, containerized with Docker, and deployed with Gunicorn for production readiness."
+    ]
+  },
+  {
+    "company": "Freelance",
+    "logo": "building.jpg",
+    "position": "Flutter & React Developer",
+    "location": "Hybrid",
+    "type": "Contract",
+    "startDate": "2024-06",
+    "endDate": "2024-12",
+    "technologies": [
+      "Containerization",
+      "Docker",
+      "Reverse Proxy",
+      "Nginx",
+      "React",
+      "ShadcnUI",
+      "TailwindCSS",
+      "Typescript",
+      "Pocketbase",
+      "Flutter"
+    ],
+    "highlights": [
+      "Created a kiosk application using Flutter/Dart with virtual tour functionality to enhance organizational engagement.",
+      "Developed the virtual tour web app with React, TypeScript, ShadcnUI, and TailwindCSS, integrating Pannellum for 360° panorama views.",
+      "Implemented TanStack Query for efficient state management and optimized API interactions."
+    ]
+  },
+  {
+    "company": "Freelance",
+    "logo": "building.jpg",
+    "position": "Full-Stack Developer",
+    "location": "Hybrid",
+    "type": "Contract",
+    "startDate": "2023-11",
+    "endDate": "2024-05",
+    "technologies": [
+      "Typescript",
+      "Next.js",
+      "React",
+      "TailwindCSS",
+      "ShadcnUI",
+      "Supabase",
+      "PostgreSQL"
+    ],
+    "highlights": [
+      "Developed a virtual storefront application for a Japan-based jewelry business using Next.js, TailwindCSS, ShadcnUI, Supabase, PostgreSQL, and TanStack Query.",
+      "Built a responsive storefront application with Next.js, leveraging TailwindCSS and ShadcnUI for UI design.",
+      "Integrated Maya Payment to facilitate seamless online transactions."
+    ]
+  }
+]
