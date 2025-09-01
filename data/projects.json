@@ -97,26 +97,6 @@
     "year": 2023
   },
   {
-    "title": "Cookhaina Directory",
-    "image": "cookhaina-directory.png",
-    "description": "A web application functioning as a digital cookbook that allows users to search, view, and explore meal recipes. Built with Flask and styled using Bootstrap, it consumes TheMealDB public API to fetch and display recipes dynamically. With Supabase as a backend service and Render for deployment, the app demonstrates skills in API integration, backend–frontend interaction, and cloud deployment of full-stack web applications.",
-    "repositoryURL": "https://github.com/hyoaru/cookhaina-directory",
-    "liveURL": "https://cookhaina-directory.onrender.com",
-    "processURL": null,
-    "tags": [
-      "Python",
-      "Flask",
-      "HTML",
-      "CSS",
-      "Javascript",
-      "Bootstrap",
-      "Public API",
-      "Supabase",
-      "Render"
-    ],
-    "year": 2023
-  },
-  {
     "title": "Philippine Poverty Area Estimates Web App Choropleth Visualization",
     "image": "ph-poverty-area-estimates.png",
     "description": "An interactive web application that visualizes poverty statistics in the Philippines across multiple years (2006, 2009, 2012, 2015) using a choropleth map. Developed with Streamlit and powered by Pandas, Numpy, Plotly, and Seaborn, the tool transforms raw survey data into an engaging and accessible format. It highlights regional disparities and provides policymakers, students, and researchers with an intuitive way to analyze socioeconomic trends.",
@@ -132,43 +112,6 @@
       "Jupyter",
       "Streamlit"
     ],
-    "year": 2023
-  },
-  {
-    "title": "A Not-So-Public Public Board",
-    "image": "a-not-so-public-public-board.png",
-    "description": "A creative web app that blends the concept of an open freedom board with encryption features. Users can post and share messages encoded with a Vigenère cipher, adding a playful layer of secrecy to interactions. Built with React, Flask, TailwindCSS, and DaisyUI, the project highlights frontend–backend communication, basic cryptography, and hosting with GitHub Pages.",
-    "repositoryURL": "https://github.com/hyoaru/a-not-so-public-public-board",
-    "liveURL": "https://hyoaru.github.io/a-not-so-public-public-board/",
-    "processURL": null,
-    "tags": [
-      "React",
-      "Flask",
-      "DaisyUi",
-      "TailwindCSS",
-      "Vigenere Cipher",
-      "Github Pages"
-    ],
-    "year": 2023
-  },
-  {
-    "title": "Expression Converter",
-    "image": "expression-converter.png",
-    "description": "A desktop application built with Java Swing as a course requirement in Data Structures and Algorithms. It provides a user-friendly interface for converting expressions between infix, prefix, and postfix notations, showcasing the practical application of stack data structures. The project emphasizes algorithmic thinking, parsing expressions, and GUI development in Java.",
-    "repositoryURL": "https://github.com/hyoaru/expression-converter",
-    "liveURL": null,
-    "processURL": null,
-    "tags": ["Java", "Java Swing GUI", "Data Structure", "Stack"],
-    "year": 2023
-  },
-  {
-    "title": "Anagram",
-    "image": "anagram.png",
-    "description": "A browser-based anagram game built as a midterm project for CS Professional Elective 1. Developed using HTML, CSS, vanilla JavaScript, and Bootstrap, the game challenges users to rearrange letters into meaningful words. This project reflects an emphasis on interactive design, DOM manipulation, and creating engaging learning tools through simple yet fun gameplay.",
-    "repositoryURL": "https://github.com/hyoaru/anagram",
-    "liveURL": "https://hyoaru.github.io/anagram/",
-    "processURL": null,
-    "tags": ["HTML", "CSS", "Javascript", "Bootstrap"],
     "year": 2023
   },
   {
