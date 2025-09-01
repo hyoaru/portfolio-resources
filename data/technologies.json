@@ -64,6 +64,11 @@
     "logo": "git",
     "category": "Programming Languages & Tools"
   },
+  {
+    "name": "labview",
+    "logo": "labview",
+    "category": "Programming Languages & Tools"
+  },
 
   {
     "name": "bootstrap",
