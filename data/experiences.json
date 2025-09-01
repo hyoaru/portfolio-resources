@@ -34,9 +34,9 @@
       "Grafana Loki"
     ],
     "highlights": [
-      "Built scalable automation frameworks for backend, mobile, and API testing using Robot Framework, Appium, BrowserStack, Jenkins, and Hashicorp Vault with both CI and on-demand pipelines.",
+      "Built scalable automation frameworks for backend and mobile testing using Robot Framework, Appium, BrowserStack, Jenkins, and Hashicorp Vault with both CI and on-demand pipelines.",
       "Designed and implemented a performance testing ecosystem with Grafana K6, InfluxDB, Grafana, and Loki, enabling real-time monitoring, reporting, and scalable load testing.",
-      "Established a centralized QE infrastructure leveraging Docker, Nginx, Jenkins, Vault, and Grafana to streamline test execution, reporting, and team collaboration."
+      "Established a centralized QE infrastructure leveraging Docker, Nginx, Jenkins, Vault, Grafana, Grafana Loki, and InfluxDB to streamline test execution, reporting, and team collaboration."
     ]
   },
   {
