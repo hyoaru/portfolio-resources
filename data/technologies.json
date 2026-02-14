@@ -1,351 +1,282 @@
 [
   {
     "name": "bash",
-    "logo": "gnubash",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "gnubash"
   },
   {
     "name": "csharp",
-    "logo": "sharp",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "sharp"
   },
   {
     "name": "dart",
-    "logo": "dart",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "dart"
   },
   {
     "name": "html",
-    "logo": "html5",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "html5"
   },
   {
     "name": "css",
-    "logo": "css",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "css"
   },
   {
     "name": "java",
-    "logo": "openjdk",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "openjdk"
   },
   {
     "name": "javascript",
-    "logo": "javascript",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "javascript"
   },
   {
     "name": "php",
-    "logo": "php",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "php"
   },
   {
     "name": "python",
-    "logo": "python",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "python"
   },
   {
     "name": "r",
-    "logo": "r",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "r"
   },
   {
     "name": "typescript",
-    "logo": "typescript",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "typescript"
   },
   {
     "name": "docker",
-    "logo": "docker",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "docker"
   },
   {
     "name": "git",
-    "logo": "git",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "git"
   },
   {
     "name": "labview",
-    "logo": "labview",
-    "category": "Programming Languages & Tools"
+    "simple_icon_key": "labview"
   },
 
   {
     "name": "bootstrap",
-    "logo": "bootstrap",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "bootstrap"
   },
   {
     "name": "codeigniter",
-    "logo": "codeigniter",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "codeigniter"
   },
   {
     "name": "daisyui",
-    "logo": "daisyui",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "daisyui"
   },
   {
     "name": "fastapi",
-    "logo": "fastapi",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "fastapi"
   },
   {
     "name": "flask",
-    "logo": "flask",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "flask"
   },
   {
     "name": "flask-restx",
-    "logo": "flask",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "flask"
   },
   {
     "name": "flutter",
-    "logo": "flutter",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "flutter"
   },
   {
     "name": "heroui",
-    "logo": "heroui",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "heroui"
   },
   {
     "name": "javafx",
-    "logo": "openjdk",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "openjdk"
   },
   {
     "name": "laravel",
-    "logo": "laravel",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "laravel"
   },
   {
     "name": "nextjs",
-    "logo": "nextdotjs",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "nextdotjs"
   },
   {
     "name": "open api",
-    "logo": "openapiinitiative",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "openapiinitiative"
   },
   {
     "name": "pydantic",
-    "logo": "pydantic",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "pydantic"
   },
   {
     "name": "react",
-    "logo": "react",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "react"
   },
   {
     "name": "shadcnui",
-    "logo": "shadcnui",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "shadcnui"
   },
   {
     "name": "streamlit",
-    "logo": "streamlit",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "streamlit"
   },
   {
     "name": "swagger",
-    "logo": "swagger",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "swagger"
   },
   {
     "name": "tailwindcss",
-    "logo": "tailwindcss",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "tailwindcss"
   },
   {
     "name": "ggplot",
-    "logo": "tidyverse",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "tidyverse"
   },
   {
     "name": "numpy",
-    "logo": "numpy",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "numpy"
   },
   {
     "name": "pandas",
-    "logo": "pandas",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "pandas"
   },
   {
     "name": "plotly",
-    "logo": "plotly",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "plotly"
   },
   {
     "name": "seaborn",
-    "logo": "python",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "python"
   },
   {
     "name": "sklearn",
-    "logo": "scikitlearn",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "scikitlearn"
   },
   {
     "name": "grafana k6",
-    "logo": "k6",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "k6"
   },
   {
     "name": "robot framework",
-    "logo": "robotframework",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "robotframework"
   },
   {
     "name": "jupyter",
-    "logo": "jupyter",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "jupyter"
   },
   {
     "name": "allure",
-    "logo": "circle",
-    "category": "Frameworks & Libraries"
+    "simple_icon_key": "circle"
   },
 
   {
     "name": "hashicorp vault",
-    "logo": "vault",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "vault"
   },
   {
     "name": "influxdb",
-    "logo": "influxdb",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "influxdb"
   },
   {
     "name": "mysql",
-    "logo": "mysql",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "mysql"
   },
   {
     "name": "nocodb",
-    "logo": "airtable",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "airtable"
   },
   {
     "name": "pocketbase",
-    "logo": "pocketbase",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "pocketbase"
   },
   {
     "name": "postgresql",
-    "logo": "postgresql",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "postgresql"
   },
   {
     "name": "supabase",
-    "logo": "supabase",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "supabase"
   },
   {
     "name": "browserstack",
-    "logo": "bt",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "bt"
   },
   {
     "name": "github",
-    "logo": "github",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "github"
   },
   {
     "name": "grafana",
-    "logo": "grafana",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "grafana"
   },
   {
     "name": "grafana loki",
-    "logo": "grafana",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "grafana"
   },
   {
     "name": "jenkins",
-    "logo": "jenkins",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "jenkins"
   },
   {
     "name": "aws ec2",
-    "logo": "cloudways",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "cloudways"
   },
   {
     "name": "slack",
-    "logo": "slack",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "slack"
   },
   {
     "name": "vapi",
-    "logo": "vectary",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "vectary"
   },
   {
     "name": "arduino",
-    "logo": "arduino",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "arduino"
   },
   {
     "name": "n8n",
-    "logo": "n8n",
-    "category": "Infrastructures & Services"
+    "simple_icon_key": "n8n"
   },
 
   {
     "name": "vscodium",
-    "logo": "vscodium",
-    "category": "Development Environment"
+    "simple_icon_key": "vscodium"
   },
   {
     "name": "neovim",
-    "logo": "neovim",
-    "category": "Development Environment"
+    "simple_icon_key": "neovim"
   },
   {
     "name": "tmux",
-    "logo": "tmux",
-    "category": "Development Environment"
+    "simple_icon_key": "tmux"
   },
   {
     "name": "linux",
-    "logo": "linux",
-    "category": "Development Environment"
+    "simple_icon_key": "linux"
   },
   {
     "name": "ubuntu",
-    "logo": "ubuntu",
-    "category": "Development Environment"
+    "simple_icon_key": "ubuntu"
   },
   {
     "name": "zorin",
-    "logo": "zorin",
-    "category": "Development Environment"
+    "simple_icon_key": "zorin"
   },
   {
     "name": "macos",
-    "logo": "macos",
-    "category": "Development Environment"
+    "simple_icon_key": "macos"
   },
 
   {
     "name": "indesign",
-    "logo": "aframe",
-    "category": "Creative Suite"
+    "simple_icon_key": "aframe"
   },
   {
     "name": "photoshop",
-    "logo": "aframe",
-    "category": "Creative Suite"
+    "simple_icon_key": "aframe"
   },
   {
     "name": "premiere",
-    "logo": "aframe",
-    "category": "Creative Suite"
+    "simple_icon_key": "aframe"
   }
 ]

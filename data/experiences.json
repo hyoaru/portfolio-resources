@@ -4,8 +4,8 @@
     "title": "Backend & Machine Learning Engineer",
     "summary": "Developed a machine learning-based system for legal document analysis. Focused on creating a scalable pipeline for natural language processing and inference to automate document evaluation and validation.",
     "country": "Philippines",
-    "startedAt": "2024-09",
-    "endedAt": "2024-12",
+    "started_at": "2024-09",
+    "ended_at": "2024-12",
     "technologies": [
       "Cloudflare",
       "Tunnelling",
@@ -40,8 +40,8 @@
     "title": "Backend & AI Agent Workflow Engineer",
     "summary": "Specialized in creating and deploying voice AI agents for business automation. Developed backend APIs and integrated various tools to manage complex conversational flows and data models, focusing on enhancing customer interaction.",
     "country": "Taiwan",
-    "startedAt": "2025-01",
-    "endedAt": "2025-02",
+    "started_at": "2025-01",
+    "ended_at": "2025-02",
     "technologies": [
       "N8N",
       "VAPI",
@@ -62,8 +62,8 @@
     "title": "Software Quality Engineer Intern",
     "summary": "Created test automation continuous integration pipelines for a backend and client application. Designed and implemented a CI/CD pipeline to streamline the testing and code analysis process.",
     "country": "Philippines",
-    "startedAt": "2025-02",
-    "endedAt": "2025-04",
+    "started_at": "2025-02",
+    "ended_at": "2025-04",
     "technologies": [
       "CI/CD",
       "Automation Testing",
@@ -89,8 +89,8 @@
     "title": "Senior Associate Software Quality Engineer",
     "summary": "Architected and implemented a scalable and comprehensive quality engineering infrastructure, focusing on automation, performance, and streamlined collaboration. Developed robust automation frameworks and a performance testing ecosystem to ensure high-quality software delivery.",
     "country": "Philippines",
-    "startedAt": "2025-04",
-    "endedAt": null,
+    "started_at": "2025-04",
+    "ended_at": null,
     "technologies": [
       "Amazon Web Services (AWS)",
       "AWS EC2",
