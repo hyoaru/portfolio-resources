@@ -55,7 +55,6 @@
     "name": "labview",
     "simple_icon_key": "labview"
   },
-
   {
     "name": "bootstrap",
     "simple_icon_key": "bootstrap"
@@ -74,10 +73,6 @@
   },
   {
     "name": "flask",
-    "simple_icon_key": "flask"
-  },
-  {
-    "name": "flask-restx",
     "simple_icon_key": "flask"
   },
   {
@@ -133,10 +128,6 @@
     "simple_icon_key": "tidyverse"
   },
   {
-    "name": "numpy",
-    "simple_icon_key": "numpy"
-  },
-  {
     "name": "pandas",
     "simple_icon_key": "pandas"
   },
@@ -168,7 +159,14 @@
     "name": "allure",
     "simple_icon_key": "circle"
   },
-
+  {
+    "name": "aws cloud",
+    "simple_icon_key": "iCloud"
+  },
+  {
+    "name": "cloudformation",
+    "simple_icon_key": "ebox"
+  },
   {
     "name": "hashicorp vault",
     "simple_icon_key": "vault"
@@ -222,10 +220,6 @@
     "simple_icon_key": "cloudways"
   },
   {
-    "name": "slack",
-    "simple_icon_key": "slack"
-  },
-  {
     "name": "vapi",
     "simple_icon_key": "vectary"
   },
@@ -237,7 +231,6 @@
     "name": "n8n",
     "simple_icon_key": "n8n"
   },
-
   {
     "name": "vscodium",
     "simple_icon_key": "vscodium"
@@ -251,8 +244,20 @@
     "simple_icon_key": "tmux"
   },
   {
+    "name": "hyprland",
+    "simple_icon_key": "hyprland"
+  },
+  {
     "name": "linux",
     "simple_icon_key": "linux"
+  },
+  {
+    "name": "arch",
+    "simple_icon_key": "archlinux"
+  },
+  {
+    "name": "cachyos",
+    "simple_icon_key": "codio"
   },
   {
     "name": "ubuntu",
@@ -266,7 +271,6 @@
     "name": "macos",
     "simple_icon_key": "macos"
   },
-
   {
     "name": "indesign",
     "simple_icon_key": "aframe"

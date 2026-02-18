@@ -90,7 +90,7 @@
     "summary": "Architected and implemented a scalable and comprehensive quality engineering infrastructure, focusing on automation, performance, and streamlined collaboration. Developed robust automation frameworks and a performance testing ecosystem to ensure high-quality software delivery.",
     "country": "Philippines",
     "started_at": "2025-04",
-    "ended_at": null,
+    "ended_at": "2026-01",
     "technologies": [
       "Amazon Web Services (AWS)",
       "AWS EC2",
@@ -120,6 +120,31 @@
       "Built scalable automation frameworks for backend and mobile testing using Robot Framework, Appium, BrowserStack, Jenkins, and Hashicorp Vault with both CI and on-demand pipelines.",
       "Designed and implemented a performance testing ecosystem with Grafana K6, InfluxDB, Grafana, and Loki, enabling real-time monitoring, reporting, and scalable load testing.",
       "Established a centralized QE infrastructure leveraging Docker, Nginx, Jenkins, Vault, Grafana, Grafana Loki, and InfluxDB to streamline test execution, reporting, and team collaboration."
+    ]
+  },
+  {
+    "organization": "Philippine Digital Asset Exchange (PDAX)",
+    "title": "Senior Associate Solutions Architect",
+    "summary": "Architected and implemented a scalable and comprehensive quality engineering infrastructure, focusing on automation, performance, and streamlined collaboration. Developed robust automation frameworks and a performance testing ecosystem to ensure high-quality software delivery.",
+    "country": "Philippines",
+    "started_at": "2026-01",
+    "ended_at": null,
+    "technologies": [
+      "Amazon Web Services (AWS)",
+      "Continuous Integration (CI)",
+      "Continuous Delivery (CD)",
+      "Serverless Architecture",
+      "Event Driven Architecture",
+      "Containerization",
+      "Docker",
+      "Typescript",
+      "Python"
+    ],
+    "highlights": [
+      "Engineered a Python-based serverless system using AWS Lambda, DynamoDB, and Docker to operationalize security finding ingestion and processing",
+      "Implemented event-driven and CLI-based entry points to operationalize both real-time and bulk intake of findings from AWS Security Hub",
+      "Automated batch publishing of security findings to Jira with dynamic assignment to the responsible squad based on ownership rules",
+      "Operationalized end-to-end security remediation by converting findings into actionable, owned, and trackable work items across teams"
     ]
   }
 ]
