@@ -76,38 +76,34 @@
   },
   {
     "organization": "Freelance",
-    "title": "Backend & Machine Learning Engineer",
-    "summary": "Developed a machine learning-based system for legal document analysis. Focused on creating a scalable pipeline for natural language processing and inference to automate document evaluation and validation.",
+    "title": "Full Stack & Machine Learning Engineer",
+    "summary": "Engineered a legal document evaluation system utilizing Natural Language Processing (NLP) to automate the assessment of project proposals. Developed a high-precision retrieval and inference pipeline while managing the full-stack deployment and secure cloud infrastructure.",
     "country": "Philippines",
     "started_at": "2024-09",
     "ended_at": "2024-12",
     "technologies": [
-      "Cloudflare",
-      "Tunnelling",
-      "Zero Trust",
-      "Containerization",
-      "Docker",
-      "Reverse Proxy",
-      "Nginx",
-      "Pocketbase",
+      "React",
       "Flask",
       "Python",
-      "Express.js",
-      "Javascript",
-      "Typescript",
+      "Docker",
+      "Cloudflare Tunnels",
+      "Zero Trust",
+      "SBERT (Transformers)",
+      "GloVe",
+      "NLI",
+      "Cosine Similarity",
+      "Gunicorn",
       "OpenAPI",
-      "Data Science",
-      "Machine Learning",
-      "Scikit Learn",
-      "Natural Language Processing (NLP)",
-      "Text Tokenization",
-      "Global Vectors for Word Representation (GLoVe)",
-      "Sentece Transformers (SBERT)"
+      "PostgreSQL",
+      "Pandas",
+      "Scikit-Learn",
+      "Jupyter"
     ],
     "highlights": [
-      "Created a machine learning and NLP-based document attribution system for assessing the HGDG alignment of a legal document, automating evaluation and validation with a focus on scalability.",
-      "Designed a pipeline to tokenize and embed document text using GloVe and SBERT embeddings, extract the most relevant sentences for specific questions using cosine similarity, and validate responses through Natural Language Inference (NLI).",
-      "Built a robust backend infrastructure using Flask and Flask-RESTX, containerized with Docker, and deployed with Gunicorn for production readiness."
+      "Developed an end-to-end Legal Document Evaluation System using React and Flask-RESTX, automating the assessment of complex project proposals via a custom NLP pipeline.",
+      "Engineered a retrieval pipeline utilizing GloVe and SBERT (Sentence-BERT) embeddings to extract relevant legal clauses, validated through Natural Language Inference (NLI).",
+      "Deployed a secure, containerized infrastructure using Docker and Cloudflare Tunnels, providing encrypted, firewall-friendly Zero Trust access for remote evaluation.",
+      "Conducted Exploratory Data Analysis (EDA) using Jupyter and Seaborn to refine model parameters, successfully reducing false-positive document classifications."
     ]
   },
   {
@@ -135,91 +131,83 @@
   {
     "organization": "Philippine Digital Asset Exchange (PDAX)",
     "title": "Software Quality Engineer Intern",
-    "summary": "Created test automation continuous integration pipelines for a backend and client application. Designed and implemented a CI/CD pipeline to streamline the testing and code analysis process.",
+    "summary": "Developed foundational CI/CD Proof of Concepts (PoCs) for hybrid test automation and AI-driven internal tools. Focused on establishing multi-tier gate systems and secure monorepo architectures to enhance code quality and deployment safety.",
     "country": "Philippines",
     "started_at": "2025-02",
     "ended_at": "2025-04",
     "technologies": [
-      "CI/CD",
-      "Automation Testing",
       "Jenkins",
-      "Robot Framework",
       "Docker",
-      "Docker-in-Docker",
-      "Containerization",
       "Sonarqube",
-      "FastAPI",
+      "Robot Framework",
       "PydanticAI",
+      "FastAPI",
+      "React",
       "Typescript",
-      "React"
+      "HashiCorp Vault",
+      "Python (UV)",
+      "Git"
     ],
     "highlights": [
-      "Built an API and client app of an implementation of an AI agent using FastAPI and PyanticAI for API and Typescript and React for client side.",
-      "Developed test automation scripts for thereof using Robot Framework with its playwright and requests implementation to address and test the API and client app.",
-      "Designed the pipeline using jenkins with hybrid testing methodology of implementing unit tests and static code analysis using SonarQube on feature branch push and smoke tests on develop branch pull request then full test on pull request to master."
+      "Developed a hybrid CI/CD PoC using Jenkins and SonarQube, automating smoke tests on PRs and full regression suites for Staging-to-Master deployments.",
+      "Architected a multi-tier CI gate system for test repositories, enforcing QA-led test selection and approval workflows across feature, develop, and master branches.",
+      "Built a monorepo PoC for backend test automation using Python (UV) and Robot Framework Requests, integrating HashiCorp Vault for centralized, secure secret management.",
+      "Built an AI agent implementation using FastAPI and PydanticAI (backend) with React (client) to demonstrate automated document/task evaluation capabilities."
     ]
   },
   {
     "organization": "Philippine Digital Asset Exchange (PDAX)",
     "title": "Senior Associate Software Quality Engineer",
-    "summary": "Architected and implemented a scalable and comprehensive quality engineering infrastructure, focusing on automation, performance, and streamlined collaboration. Developed robust automation frameworks and a performance testing ecosystem to ensure high-quality software delivery.",
+    "summary": "Architected and engineered the organization’s foundational Quality Engineering platform, moving beyond traditional testing to build a scalable, observability-driven infrastructure. Established standardized automation and performance ecosystems to ensure high-concurrency system reliability.",
     "country": "Philippines",
     "started_at": "2025-04",
     "ended_at": "2026-01",
     "technologies": [
-      "Amazon Web Services (AWS)",
-      "AWS EC2",
-      "Containerization",
       "Docker",
-      "Hashicorp Vault",
-      "Reverse Proxy",
       "Nginx",
-      "Continuous Integration (CI)",
       "Jenkins",
-      "Slack Integration",
-      "Test Automation",
-      "Performance Testing",
+      "Hashicorp Vault",
       "Grafana",
-      "Grafana K6",
+      "Grafana Loki",
       "InfluxDB",
-      "Typescript",
-      "Functional Testing",
+      "Grafana K6",
       "Robot Framework",
-      "Allure",
-      "Robot Framework Requests",
-      "Robot Framework Appium",
+      "Appium",
       "Browserstack",
-      "Grafana Loki"
+      "AWS EC2",
+      "Typescript"
     ],
     "highlights": [
-      "Built scalable automation frameworks for backend and mobile testing using Robot Framework, Appium, BrowserStack, Jenkins, and Hashicorp Vault with both CI and on-demand pipelines.",
-      "Designed and implemented a performance testing ecosystem with Grafana K6, InfluxDB, Grafana, and Loki, enabling real-time monitoring, reporting, and scalable load testing.",
-      "Established a centralized QE infrastructure leveraging Docker, Nginx, Jenkins, Vault, Grafana, Grafana Loki, and InfluxDB to streamline test execution, reporting, and team collaboration."
+      "Architected the foundational QE platform using Docker, Nginx, Jenkins, Vault, and the Grafana stack (Loki/InfluxDB), reducing environment setup time by 70% for 6+ cross-functional squads.",
+      "Designed and built a secure automation ecosystem for backend and mobile (Robot Framework, Appium, BrowserStack) within a complex monorepo, utilizing Hashicorp Vault for 100% automated secret injection.",
+      "Engineered an on-demand, high-concurrency performance stack using Grafana K6 and InfluxDB to identify critical bottlenecks by simulating thousands of concurrent users.",
+      "Unified organization-wide automated reporting and observability by centralizing test execution data into real-time Grafana dashboards."
     ]
   },
   {
     "organization": "Philippine Digital Asset Exchange (PDAX)",
     "title": "Senior Associate Solutions Architect",
-    "summary": "Architected and implemented a scalable and comprehensive quality engineering infrastructure, focusing on automation, performance, and streamlined collaboration. Developed robust automation frameworks and a performance testing ecosystem to ensure high-quality software delivery.",
+    "summary": "Architected and engineered a serverless, event-driven security ecosystem to automate the lifecycle of vulnerability findings. Focused on reducing remediation lag through Hexagonal Architecture and high-concurrency 'Fan-out' design patterns to bridge the gap between cloud security monitoring and engineering workflows.",
     "country": "Philippines",
     "started_at": "2026-01",
     "ended_at": null,
     "technologies": [
       "Amazon Web Services (AWS)",
-      "Continuous Integration (CI)",
-      "Continuous Delivery (CD)",
+      "AWS Lambda",
+      "AWS EventBridge",
+      "Amazon SQS",
+      "Amazon DynamoDB",
       "Serverless Architecture",
       "Event Driven Architecture",
-      "Containerization",
-      "Docker",
-      "Typescript",
-      "Python"
+      "Hexagonal Architecture",
+      "Python",
+      "Docker"
     ],
     "highlights": [
-      "Engineered a Python-based serverless system using AWS Lambda, DynamoDB, and Docker to operationalize security finding ingestion and processing",
-      "Implemented event-driven and CLI-based entry points to operationalize both real-time and bulk intake of findings from AWS Security Hub",
-      "Automated batch publishing of security findings to Jira with dynamic assignment to the responsible squad based on ownership rules",
-      "Operationalized end-to-end security remediation by converting findings into actionable, owned, and trackable work items across teams"
+      "Reduced Mean Time to Remediation (MTTR) by 80% by architecting a serverless security ecosystem utilizing a 'Fan-out' pattern across multiple AWS Lambda functions.",
+      "Engineered an idempotent ingestion pipeline using DynamoDB and SQS to process thousands of monthly security findings without data duplication.",
+      "Implemented decoupled entry points via CLI and AWS EventBridge to support both automated real-time intake and manual bulk processing of Security Hub findings.",
+      "Automated real-time Jira auto-resolution and squad-based assignment by engineering dynamic ownership rules into the serverless workflow."
     ]
   }
 ]
